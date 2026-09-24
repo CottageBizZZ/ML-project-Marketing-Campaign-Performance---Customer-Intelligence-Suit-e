@@ -1,1 +1,1 @@
-# ML-project-Marketing-Campaign-Performance---Customer-Intelligence-Suit-e
+# ML-project-Marketing-Campaign-Performance-Customer-Intelligence-Suite
