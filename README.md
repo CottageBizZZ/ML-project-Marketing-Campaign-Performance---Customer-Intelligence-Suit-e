@@ -6,7 +6,6 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-2.x-EB5424)
 ![SHAP](https://img.shields.io/badge/SHAP-explainability-9B59B6)
 ![Power BI](https://img.shields.io/badge/Power%20BI-star%20schema%20%2B%20DAX-F2C811?logo=powerbi&logoColor=black)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 An end-to-end marketing analytics project that takes raw campaign and CRM data and turns it into **KPI dashboards, customer segments, predictive models and a plain-language executive summary** — the full workflow a Data & AI team runs when it asks *"where should the next marketing euro go?"*
 
