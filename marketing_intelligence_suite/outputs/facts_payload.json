@@ -1,0 +1,104 @@
+{
+  "period": "January 2024 \u2013 December 2025",
+  "rows": 4673,
+  "spend": 53110.09,
+  "revenue": 194351.57,
+  "conversions": 804,
+  "roas": 3.6594,
+  "cac": 66.0573,
+  "ctr": 0.0544,
+  "response_rate": 0.1129,
+  "reached": 2032,
+  "aov": 241.7308,
+  "yoy_revenue": -0.1888392207309556,
+  "best_channel": "email",
+  "best_roas": 6.50671778891434,
+  "best_cac": 30.99207207207207,
+  "best_spend_share": 0.06477337922040803,
+  "worst_channel": "display",
+  "worst_roas": 0.8388128864444244,
+  "worst_cac": 159.1291304347826,
+  "worst_spend": 3659.97,
+  "worst_revenue": 3070.03,
+  "elasticity": -0.7122270355199585,
+  "q4_uplift": 1.374104885794739,
+  "loyal_rr": 0.1870463428252373,
+  "atrisk_rr": 0.0320855614973262,
+  "loyal_roas": 7.330330754309321,
+  "resp_auc": 0.7472486884158476,
+  "resp_model": "Random Forest",
+  "top30": 61.95652173913043,
+  "top_lift": 3.1986529741264342,
+  "top_drivers": [
+    "spend_per_touch",
+    "channel_search",
+    "customer_segment_Loyal"
+  ],
+  "churn_auc": 0.6789676255551121,
+  "churn_rate_buyers": 0.7572463768115942,
+  "churn_drivers": [
+    "touches",
+    "customer_segment_Loyal",
+    "recency_days"
+  ],
+  "champions": {
+    "cluster": 3,
+    "customers": 50,
+    "avg_recency": 251.5,
+    "avg_frequency": 3.44,
+    "avg_monetary": 950.0,
+    "total_revenue": 47499.86,
+    "score": 0,
+    "segment_name": "Champions",
+    "revenue_share": 0.24
+  },
+  "lapsed": {
+    "cluster": 0,
+    "customers": 379,
+    "avg_recency": 394.97,
+    "avg_frequency": 1.0,
+    "avg_monetary": 217.44,
+    "total_revenue": 82408.62,
+    "score": -3,
+    "segment_name": "One-off Lapsed",
+    "revenue_share": 0.42
+  },
+  "n_buyers": 566,
+  "insights": [
+    {
+      "id": 1,
+      "title": "Email is the most efficient channel but under-funded",
+      "text": "Email delivers ROAS 6.5x and the lowest CAC (\u20ac31) yet receives only 6% of total spend. Even accounting for its limited reach, shifting a further 10\u201315% of budget into email (lifecycle and re-engagement flows) is the highest-ROI reallocation available.",
+      "metric": "ROAS",
+      "value": 6.50671778891434
+    },
+    {
+      "id": 2,
+      "title": "Display is the weakest channel and loses money",
+      "text": "Display spend of \u20ac3,660 returned \u20ac3,070 (ROAS 0.84x, CAC \u20ac159 vs. blended \u20ac66). CTR is 1.6% and click-to-conversion only 16%. Recommend pausing prospecting display and keeping only retargeting placements.",
+      "metric": "ROAS",
+      "value": 0.8388128864444244
+    },
+    {
+      "id": 3,
+      "title": "Diminishing returns: spend elasticity of ROAS \u2248 -0.71",
+      "text": "Across 120 campaigns, a 2x increase in spend per reached customer lowers ROAS by ~39%. Several large Social and Search campaigns are past the efficient frontier; splitting them into smaller, better-targeted flights would recover efficiency.",
+      "metric": "elasticity",
+      "value": -0.7122270355199585
+    },
+    {
+      "id": 4,
+      "title": "Q4 seasonality is worth 1.4x an average month",
+      "text": "November\u2013December revenue averages 1.4x the rest of the year while spend rises far less. Budget phasing should front-load Q4 and reduce July\u2013August activity, where response rates hit the annual low.",
+      "metric": "q4_uplift",
+      "value": 1.374104885794739
+    },
+    {
+      "id": 5,
+      "title": "Loyal customers on desktop are the most responsive audience",
+      "text": "Loyal customers respond at 18.7% vs. 3.2% for At-Risk; desktop responds at 14.6% vs. 9.5% on mobile. Retention & Cross-sell campaigns average ROAS 4.5x vs. 2.7x for Acquisition \u2014 the CRM base is the cheapest growth lever.",
+      "metric": "response_rate_gap",
+      "value": 5.829611018053228
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "rfm": {
+    "k": 4,
+    "silhouette": {
+      "3": 0.5789671676611342,
+      "4": 0.5218166580654083,
+      "5": 0.3690123447858419,
+      "6": 0.4089356182103357,
+      "7": 0.4234951497658968
+    },
+    "n_buyers": 566,
+    "n_prospects": 1634,
+    "profiles": [
+      {
+        "cluster": 3,
+        "customers": 50,
+        "avg_recency": 251.5,
+        "avg_frequency": 3.44,
+        "avg_monetary": 950.0,
+        "total_revenue": 47499.86,
+        "score": 0,
+        "segment_name": "Champions",
+        "revenue_share": 0.24
+      },
+      {
+        "cluster": 2,
+        "customers": 34,
+        "avg_recency": 2.21,
+        "avg_frequency": 1.44,
+        "avg_monetary": 325.42,
+        "total_revenue": 11064.14,
+        "score": -1,
+        "segment_name": "Recent Buyers",
+        "revenue_share": 0.06
+      },
+      {
+        "cluster": 1,
+        "customers": 103,
+        "avg_recency": 309.77,
+        "avg_frequency": 1.98,
+        "avg_monetary": 518.24,
+        "total_revenue": 53378.95,
+        "score": -2,
+        "segment_name": "Occasional Repeat",
+        "revenue_share": 0.27
+      },
+      {
+        "cluster": 0,
+        "customers": 379,
+        "avg_recency": 394.97,
+        "avg_frequency": 1.0,
+        "avg_monetary": 217.44,
+        "total_revenue": 82408.62,
+        "score": -3,
+        "segment_name": "One-off Lapsed",
+        "revenue_share": 0.42
+      }
+    ]
+  },
+  "response_model": {
+    "models": {
+      "Logistic Regression": {
+        "cv_auc_mean": 0.7250868459791819,
+        "cv_auc_std": 0.03220178723224042,
+        "test_auc": 0.7463441476210577,
+        "test_pr_auc": 0.3181600955003086
+      },
+      "Random Forest": {
+        "cv_auc_mean": 0.7171863630902465,
+        "cv_auc_std": 0.028443149939725777,
+        "test_auc": 0.7472486884158476,
+        "test_pr_auc": 0.3020129463810541
+      },
+      "XGBoost": {
+        "cv_auc_mean": 0.7001056190602173,
+        "cv_auc_std": 0.027459914001846202,
+        "test_auc": 0.7251665862630405,
+        "test_pr_auc": 0.2868437500221847
+      }
+    },
+    "best": "Random Forest",
+    "n_train": 4877,
+    "n_test": 1626,
+    "base_rate": 0.11287098262340459,
+    "top20_capture_pct": 48.369565217391305,
+    "top30_capture_pct": 61.95652173913043,
+    "top_decile_lift": 3.1986529741264342,
+    "top_features": {
+      "spend_per_touch": 0.0591,
+      "channel_search": 0.0474,
+      "customer_segment_Loyal": 0.0413,
+      "past_purchases_12m": 0.0313,
+      "app_sessions_30d": 0.0279,
+      "device_type_desktop": 0.0198,
+      "channel_social": 0.0183,
+      "tenure_months": 0.0182,
+      "days_into_campaign": 0.017,
+      "channel_display": 0.0159
+    }
+  },
+  "churn_model": {
+    "cutoff": "2024-12-31",
+    "n_customers": 1644,
+    "churn_rate": 0.818734793187348,
+    "n_buyers_2024": 276,
+    "churn_rate_among_2024_buyers": 0.7572463768115942,
+    "best": "Logistic Regression",
+    "cv_auc": {
+      "Logistic Regression": {
+        "mean": 0.6789676255551121,
+        "std": 0.0502949087555943
+      },
+      "Gradient Boosting": {
+        "mean": 0.6754368438124976,
+        "std": 0.03548471535028764
+      }
+    },
+    "top_features": {
+      "touches": 0.2881,
+      "customer_segment_Loyal": 0.2666,
+      "recency_days": 0.2244,
+      "customer_segment_At-Risk": 0.2231,
+      "impressions": 0.1959,
+      "past_purchases_12m": 0.1828,
+      "desktop_share": 0.1551,
+      "loyalty_member": 0.153
+    }
+  }
+}

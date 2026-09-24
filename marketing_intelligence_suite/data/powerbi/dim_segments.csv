@@ -1,0 +1,5 @@
+customer_segment,segment_order,segment_description
+New,1,Acquired < 6 months ago
+Regular,2,"Active, standard value"
+Loyal,3,"High value, high frequency"
+At-Risk,4,"Declining activity, churn risk"

@@ -1,0 +1,56 @@
+{
+  "overall": {
+    "impressions": 42747.0,
+    "clicks": 2324.0,
+    "conversions": 804.0,
+    "revenue": 194351.57,
+    "spend": 53110.09,
+    "CTR": 0.0544,
+    "CVR": 0.346,
+    "response_rate": 0.1129,
+    "CPC": 22.8529,
+    "CAC": 66.0573,
+    "ROAS": 3.6594,
+    "AOV": 241.7308,
+    "reached_customers": 2032.0
+  },
+  "insights": [
+    {
+      "id": 1,
+      "title": "Email is the most efficient channel but under-funded",
+      "text": "Email delivers ROAS 6.5x and the lowest CAC (\u20ac31) yet receives only 6% of total spend. Even accounting for its limited reach, shifting a further 10\u201315% of budget into email (lifecycle and re-engagement flows) is the highest-ROI reallocation available.",
+      "metric": "ROAS",
+      "value": 6.50671778891434
+    },
+    {
+      "id": 2,
+      "title": "Display is the weakest channel and loses money",
+      "text": "Display spend of \u20ac3,660 returned \u20ac3,070 (ROAS 0.84x, CAC \u20ac159 vs. blended \u20ac66). CTR is 1.6% and click-to-conversion only 16%. Recommend pausing prospecting display and keeping only retargeting placements.",
+      "metric": "ROAS",
+      "value": 0.8388128864444244
+    },
+    {
+      "id": 3,
+      "title": "Diminishing returns: spend elasticity of ROAS \u2248 -0.71",
+      "text": "Across 120 campaigns, a 2x increase in spend per reached customer lowers ROAS by ~39%. Several large Social and Search campaigns are past the efficient frontier; splitting them into smaller, better-targeted flights would recover efficiency.",
+      "metric": "elasticity",
+      "value": -0.7122270355199585
+    },
+    {
+      "id": 4,
+      "title": "Q4 seasonality is worth 1.4x an average month",
+      "text": "November\u2013December revenue averages 1.4x the rest of the year while spend rises far less. Budget phasing should front-load Q4 and reduce July\u2013August activity, where response rates hit the annual low.",
+      "metric": "q4_uplift",
+      "value": 1.374104885794739
+    },
+    {
+      "id": 5,
+      "title": "Loyal customers on desktop are the most responsive audience",
+      "text": "Loyal customers respond at 18.7% vs. 3.2% for At-Risk; desktop responds at 14.6% vs. 9.5% on mobile. Retention & Cross-sell campaigns average ROAS 4.5x vs. 2.7x for Acquisition \u2014 the CRM base is the cheapest growth lever.",
+      "metric": "response_rate_gap",
+      "value": 5.829611018053228
+    }
+  ],
+  "elasticity": -0.7122270355199585,
+  "q4_uplift": 1.374104885794739
+}

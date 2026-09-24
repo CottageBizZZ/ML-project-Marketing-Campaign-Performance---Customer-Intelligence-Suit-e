@@ -1,0 +1,6 @@
+channel_id,channel,channel_name,channel_type,funnel_stage
+1,search,Paid Search,Digital,Lower
+2,email,Email / CRM,Owned,Retention
+3,social,Paid Social,Digital,Mid
+4,display,Programmatic Display,Digital,Upper
+5,tv,TV,Offline,Upper

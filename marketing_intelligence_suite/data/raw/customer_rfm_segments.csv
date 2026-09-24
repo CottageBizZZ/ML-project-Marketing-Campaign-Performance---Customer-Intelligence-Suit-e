@@ -1,0 +1,2201 @@
+customer_id,last_purchase,frequency,monetary,recency_days,segment_name
+C00001,,,,,Prospect (no purchase)
+C00002,2024-09-28,1.0,146.99,459.0,One-off Lapsed
+C00003,2025-04-25,1.0,131.68,250.0,One-off Lapsed
+C00004,,,,,Prospect (no purchase)
+C00005,,,,,Prospect (no purchase)
+C00006,,,,,Prospect (no purchase)
+C00007,,,,,Prospect (no purchase)
+C00008,,,,,Prospect (no purchase)
+C00009,,,,,Prospect (no purchase)
+C00010,,,,,Prospect (no purchase)
+C00011,2025-09-11,2.0,515.09,111.0,Occasional Repeat
+C00012,,,,,Prospect (no purchase)
+C00013,,,,,Prospect (no purchase)
+C00014,,,,,Prospect (no purchase)
+C00015,,,,,Prospect (no purchase)
+C00016,2024-07-11,1.0,181.23,538.0,One-off Lapsed
+C00017,,,,,Prospect (no purchase)
+C00018,,,,,Prospect (no purchase)
+C00019,2024-12-12,1.0,131.16,384.0,One-off Lapsed
+C00020,2025-05-31,4.0,1052.94,214.0,Champions
+C00021,,,,,Prospect (no purchase)
+C00022,,,,,Prospect (no purchase)
+C00023,,,,,Prospect (no purchase)
+C00024,2025-05-08,3.0,856.77,237.0,Champions
+C00025,2024-12-14,2.0,823.9,382.0,Occasional Repeat
+C00026,,,,,Prospect (no purchase)
+C00027,,,,,Prospect (no purchase)
+C00028,,,,,Prospect (no purchase)
+C00029,2024-03-01,1.0,232.94,670.0,One-off Lapsed
+C00030,,,,,Prospect (no purchase)
+C00031,,,,,Prospect (no purchase)
+C00032,,,,,Prospect (no purchase)
+C00033,,,,,Prospect (no purchase)
+C00034,,,,,Prospect (no purchase)
+C00035,,,,,Prospect (no purchase)
+C00036,,,,,Prospect (no purchase)
+C00037,2024-05-28,1.0,146.97,582.0,One-off Lapsed
+C00038,2025-02-19,2.0,482.17,315.0,Occasional Repeat
+C00039,,,,,Prospect (no purchase)
+C00040,,,,,Prospect (no purchase)
+C00041,,,,,Prospect (no purchase)
+C00042,2025-07-23,1.0,219.07,161.0,One-off Lapsed
+C00043,2024-11-23,1.0,146.2,403.0,One-off Lapsed
+C00044,,,,,Prospect (no purchase)
+C00045,,,,,Prospect (no purchase)
+C00046,2025-06-03,1.0,122.01,211.0,One-off Lapsed
+C00047,2024-04-03,1.0,242.98,637.0,One-off Lapsed
+C00048,2024-05-02,1.0,165.45,608.0,One-off Lapsed
+C00049,2024-04-24,1.0,191.15,616.0,One-off Lapsed
+C00050,,,,,Prospect (no purchase)
+C00051,,,,,Prospect (no purchase)
+C00052,2024-03-28,1.0,258.98,643.0,One-off Lapsed
+C00053,,,,,Prospect (no purchase)
+C00054,2025-11-17,1.0,366.86,44.0,One-off Lapsed
+C00055,,,,,Prospect (no purchase)
+C00056,,,,,Prospect (no purchase)
+C00057,,,,,Prospect (no purchase)
+C00058,,,,,Prospect (no purchase)
+C00059,,,,,Prospect (no purchase)
+C00060,,,,,Prospect (no purchase)
+C00061,,,,,Prospect (no purchase)
+C00062,,,,,Prospect (no purchase)
+C00063,,,,,Prospect (no purchase)
+C00064,,,,,Prospect (no purchase)
+C00065,2024-06-24,2.0,587.36,555.0,Occasional Repeat
+C00066,,,,,Prospect (no purchase)
+C00067,,,,,Prospect (no purchase)
+C00068,,,,,Prospect (no purchase)
+C00069,,,,,Prospect (no purchase)
+C00070,,,,,Prospect (no purchase)
+C00071,,,,,Prospect (no purchase)
+C00072,,,,,Prospect (no purchase)
+C00073,,,,,Prospect (no purchase)
+C00074,,,,,Prospect (no purchase)
+C00075,,,,,Prospect (no purchase)
+C00076,,,,,Prospect (no purchase)
+C00077,2024-09-29,2.0,290.46000000000004,458.0,Occasional Repeat
+C00078,,,,,Prospect (no purchase)
+C00079,2025-05-23,2.0,368.83,222.0,Occasional Repeat
+C00080,,,,,Prospect (no purchase)
+C00081,2024-04-11,2.0,297.12,629.0,Occasional Repeat
+C00082,,,,,Prospect (no purchase)
+C00083,,,,,Prospect (no purchase)
+C00084,,,,,Prospect (no purchase)
+C00085,,,,,Prospect (no purchase)
+C00086,2025-05-12,4.0,1649.01,233.0,Champions
+C00087,,,,,Prospect (no purchase)
+C00088,,,,,Prospect (no purchase)
+C00089,2025-11-13,1.0,166.25,48.0,One-off Lapsed
+C00090,,,,,Prospect (no purchase)
+C00091,,,,,Prospect (no purchase)
+C00092,,,,,Prospect (no purchase)
+C00093,2024-12-13,2.0,628.03,383.0,Occasional Repeat
+C00094,,,,,Prospect (no purchase)
+C00095,2025-03-04,1.0,404.79,302.0,One-off Lapsed
+C00096,,,,,Prospect (no purchase)
+C00097,2025-10-01,1.0,311.61,91.0,One-off Lapsed
+C00098,2025-06-08,1.0,256.85,206.0,One-off Lapsed
+C00099,,,,,Prospect (no purchase)
+C00100,,,,,Prospect (no purchase)
+C00101,,,,,Prospect (no purchase)
+C00102,2024-04-07,1.0,203.46,633.0,One-off Lapsed
+C00103,2025-09-20,1.0,195.64,102.0,One-off Lapsed
+C00104,,,,,Prospect (no purchase)
+C00105,,,,,Prospect (no purchase)
+C00106,2025-11-16,4.0,1211.99,45.0,Champions
+C00107,,,,,Prospect (no purchase)
+C00108,,,,,Prospect (no purchase)
+C00109,,,,,Prospect (no purchase)
+C00110,,,,,Prospect (no purchase)
+C00111,,,,,Prospect (no purchase)
+C00112,2024-04-21,1.0,201.13,619.0,One-off Lapsed
+C00113,,,,,Prospect (no purchase)
+C00114,,,,,Prospect (no purchase)
+C00115,2024-05-26,1.0,170.41,584.0,One-off Lapsed
+C00116,,,,,Prospect (no purchase)
+C00117,,,,,Prospect (no purchase)
+C00118,,,,,Prospect (no purchase)
+C00119,,,,,Prospect (no purchase)
+C00120,,,,,Prospect (no purchase)
+C00121,2025-11-27,2.0,210.76999999999998,34.0,Occasional Repeat
+C00122,2024-05-01,1.0,154.8,609.0,One-off Lapsed
+C00123,2024-05-16,1.0,160.26,594.0,One-off Lapsed
+C00124,,,,,Prospect (no purchase)
+C00125,,,,,Prospect (no purchase)
+C00126,,,,,Prospect (no purchase)
+C00127,,,,,Prospect (no purchase)
+C00128,,,,,Prospect (no purchase)
+C00129,,,,,Prospect (no purchase)
+C00130,2024-09-30,1.0,343.15,457.0,One-off Lapsed
+C00131,,,,,Prospect (no purchase)
+C00132,,,,,Prospect (no purchase)
+C00133,2025-11-09,1.0,119.76,52.0,One-off Lapsed
+C00134,2025-09-08,1.0,154.24,114.0,One-off Lapsed
+C00135,,,,,Prospect (no purchase)
+C00136,2025-05-13,2.0,395.07,232.0,Occasional Repeat
+C00137,,,,,Prospect (no purchase)
+C00138,2025-02-23,1.0,233.26,311.0,One-off Lapsed
+C00139,2024-02-25,1.0,156.46,675.0,One-off Lapsed
+C00140,,,,,Prospect (no purchase)
+C00141,2025-12-30,1.0,180.17,1.0,Recent Buyers
+C00142,,,,,Prospect (no purchase)
+C00143,,,,,Prospect (no purchase)
+C00144,,,,,Prospect (no purchase)
+C00145,2024-04-05,1.0,167.53,635.0,One-off Lapsed
+C00146,,,,,Prospect (no purchase)
+C00147,,,,,Prospect (no purchase)
+C00148,,,,,Prospect (no purchase)
+C00149,,,,,Prospect (no purchase)
+C00150,2025-09-14,1.0,129.62,108.0,One-off Lapsed
+C00151,,,,,Prospect (no purchase)
+C00152,2025-02-18,3.0,873.1099999999999,316.0,Champions
+C00153,,,,,Prospect (no purchase)
+C00154,,,,,Prospect (no purchase)
+C00155,2024-07-04,2.0,602.31,545.0,Occasional Repeat
+C00156,,,,,Prospect (no purchase)
+C00157,,,,,Prospect (no purchase)
+C00158,,,,,Prospect (no purchase)
+C00159,,,,,Prospect (no purchase)
+C00160,2024-07-13,2.0,537.62,536.0,Occasional Repeat
+C00161,2024-12-28,3.0,654.74,368.0,Champions
+C00162,,,,,Prospect (no purchase)
+C00163,2024-04-13,1.0,215.41,627.0,One-off Lapsed
+C00164,2025-01-06,2.0,281.39,359.0,Occasional Repeat
+C00165,2024-04-06,1.0,178.58,634.0,One-off Lapsed
+C00166,,,,,Prospect (no purchase)
+C00167,,,,,Prospect (no purchase)
+C00168,2024-06-27,1.0,267.47,552.0,One-off Lapsed
+C00169,,,,,Prospect (no purchase)
+C00170,,,,,Prospect (no purchase)
+C00171,,,,,Prospect (no purchase)
+C00172,,,,,Prospect (no purchase)
+C00173,2025-04-10,1.0,225.68,265.0,One-off Lapsed
+C00174,,,,,Prospect (no purchase)
+C00175,,,,,Prospect (no purchase)
+C00176,,,,,Prospect (no purchase)
+C00177,,,,,Prospect (no purchase)
+C00178,,,,,Prospect (no purchase)
+C00179,,,,,Prospect (no purchase)
+C00180,2024-08-08,1.0,316.11,510.0,One-off Lapsed
+C00181,,,,,Prospect (no purchase)
+C00182,2025-03-26,1.0,230.23,280.0,One-off Lapsed
+C00183,,,,,Prospect (no purchase)
+C00184,2025-03-22,1.0,229.59,284.0,One-off Lapsed
+C00185,2025-11-16,1.0,147.52,45.0,One-off Lapsed
+C00186,,,,,Prospect (no purchase)
+C00187,,,,,Prospect (no purchase)
+C00188,2024-12-24,1.0,240.98,372.0,One-off Lapsed
+C00189,2024-06-24,1.0,252.21,555.0,One-off Lapsed
+C00190,,,,,Prospect (no purchase)
+C00191,,,,,Prospect (no purchase)
+C00192,2024-06-28,1.0,231.26,551.0,One-off Lapsed
+C00193,,,,,Prospect (no purchase)
+C00194,2024-08-03,1.0,266.5,515.0,One-off Lapsed
+C00195,,,,,Prospect (no purchase)
+C00196,,,,,Prospect (no purchase)
+C00197,,,,,Prospect (no purchase)
+C00198,,,,,Prospect (no purchase)
+C00199,2025-09-24,1.0,230.46,98.0,One-off Lapsed
+C00200,2025-01-02,3.0,675.04,363.0,Champions
+C00201,,,,,Prospect (no purchase)
+C00202,,,,,Prospect (no purchase)
+C00203,,,,,Prospect (no purchase)
+C00204,,,,,Prospect (no purchase)
+C00205,2024-02-28,1.0,182.32,672.0,One-off Lapsed
+C00206,2025-11-03,1.0,184.78,58.0,One-off Lapsed
+C00207,,,,,Prospect (no purchase)
+C00208,,,,,Prospect (no purchase)
+C00209,,,,,Prospect (no purchase)
+C00210,2025-12-29,1.0,195.57,2.0,Recent Buyers
+C00211,2024-05-02,1.0,300.6,608.0,One-off Lapsed
+C00212,,,,,Prospect (no purchase)
+C00213,,,,,Prospect (no purchase)
+C00214,,,,,Prospect (no purchase)
+C00215,,,,,Prospect (no purchase)
+C00216,2024-06-28,1.0,318.14,551.0,One-off Lapsed
+C00217,,,,,Prospect (no purchase)
+C00218,,,,,Prospect (no purchase)
+C00219,2025-08-23,3.0,486.06,130.0,Champions
+C00220,,,,,Prospect (no purchase)
+C00221,,,,,Prospect (no purchase)
+C00222,,,,,Prospect (no purchase)
+C00223,,,,,Prospect (no purchase)
+C00224,,,,,Prospect (no purchase)
+C00225,,,,,Prospect (no purchase)
+C00226,,,,,Prospect (no purchase)
+C00227,2024-04-27,1.0,176.35,613.0,One-off Lapsed
+C00228,,,,,Prospect (no purchase)
+C00229,,,,,Prospect (no purchase)
+C00230,,,,,Prospect (no purchase)
+C00231,,,,,Prospect (no purchase)
+C00232,,,,,Prospect (no purchase)
+C00233,,,,,Prospect (no purchase)
+C00234,2025-04-09,1.0,143.04,266.0,One-off Lapsed
+C00235,,,,,Prospect (no purchase)
+C00236,2024-09-11,1.0,196.46,476.0,One-off Lapsed
+C00237,,,,,Prospect (no purchase)
+C00238,2025-02-09,1.0,308.95,325.0,One-off Lapsed
+C00239,,,,,Prospect (no purchase)
+C00240,2024-12-27,1.0,209.91,369.0,One-off Lapsed
+C00241,,,,,Prospect (no purchase)
+C00242,2024-07-05,1.0,278.31,544.0,One-off Lapsed
+C00243,,,,,Prospect (no purchase)
+C00244,,,,,Prospect (no purchase)
+C00245,,,,,Prospect (no purchase)
+C00246,,,,,Prospect (no purchase)
+C00247,,,,,Prospect (no purchase)
+C00248,,,,,Prospect (no purchase)
+C00249,,,,,Prospect (no purchase)
+C00250,,,,,Prospect (no purchase)
+C00251,,,,,Prospect (no purchase)
+C00252,2025-12-25,1.0,210.58,6.0,Recent Buyers
+C00253,2024-04-12,1.0,121.53,628.0,One-off Lapsed
+C00254,,,,,Prospect (no purchase)
+C00255,,,,,Prospect (no purchase)
+C00256,,,,,Prospect (no purchase)
+C00257,,,,,Prospect (no purchase)
+C00258,,,,,Prospect (no purchase)
+C00259,,,,,Prospect (no purchase)
+C00260,,,,,Prospect (no purchase)
+C00261,2024-07-08,1.0,157.19,541.0,One-off Lapsed
+C00262,2025-11-29,1.0,80.97,32.0,One-off Lapsed
+C00263,,,,,Prospect (no purchase)
+C00264,,,,,Prospect (no purchase)
+C00265,,,,,Prospect (no purchase)
+C00266,2024-05-15,1.0,336.36,595.0,One-off Lapsed
+C00267,,,,,Prospect (no purchase)
+C00268,2024-10-02,1.0,165.09,455.0,One-off Lapsed
+C00269,,,,,Prospect (no purchase)
+C00270,,,,,Prospect (no purchase)
+C00271,2024-06-26,1.0,181.43,553.0,One-off Lapsed
+C00272,,,,,Prospect (no purchase)
+C00273,,,,,Prospect (no purchase)
+C00274,,,,,Prospect (no purchase)
+C00275,,,,,Prospect (no purchase)
+C00276,,,,,Prospect (no purchase)
+C00277,,,,,Prospect (no purchase)
+C00278,,,,,Prospect (no purchase)
+C00279,,,,,Prospect (no purchase)
+C00280,,,,,Prospect (no purchase)
+C00281,,,,,Prospect (no purchase)
+C00282,2025-03-02,1.0,137.66,304.0,One-off Lapsed
+C00283,,,,,Prospect (no purchase)
+C00284,,,,,Prospect (no purchase)
+C00285,,,,,Prospect (no purchase)
+C00286,,,,,Prospect (no purchase)
+C00287,2025-09-25,2.0,549.38,97.0,Occasional Repeat
+C00288,,,,,Prospect (no purchase)
+C00289,,,,,Prospect (no purchase)
+C00290,,,,,Prospect (no purchase)
+C00291,,,,,Prospect (no purchase)
+C00292,,,,,Prospect (no purchase)
+C00293,,,,,Prospect (no purchase)
+C00294,,,,,Prospect (no purchase)
+C00295,,,,,Prospect (no purchase)
+C00296,,,,,Prospect (no purchase)
+C00297,,,,,Prospect (no purchase)
+C00298,,,,,Prospect (no purchase)
+C00299,,,,,Prospect (no purchase)
+C00300,,,,,Prospect (no purchase)
+C00301,,,,,Prospect (no purchase)
+C00302,,,,,Prospect (no purchase)
+C00303,,,,,Prospect (no purchase)
+C00304,2024-07-02,1.0,302.52,547.0,One-off Lapsed
+C00305,,,,,Prospect (no purchase)
+C00306,2025-12-14,2.0,431.65999999999997,17.0,Occasional Repeat
+C00307,,,,,Prospect (no purchase)
+C00308,,,,,Prospect (no purchase)
+C00309,,,,,Prospect (no purchase)
+C00310,,,,,Prospect (no purchase)
+C00311,2025-12-31,2.0,344.47,0.0,Recent Buyers
+C00312,,,,,Prospect (no purchase)
+C00313,,,,,Prospect (no purchase)
+C00314,,,,,Prospect (no purchase)
+C00315,,,,,Prospect (no purchase)
+C00316,,,,,Prospect (no purchase)
+C00317,,,,,Prospect (no purchase)
+C00318,,,,,Prospect (no purchase)
+C00319,,,,,Prospect (no purchase)
+C00320,,,,,Prospect (no purchase)
+C00321,2025-12-31,1.0,172.98,0.0,Recent Buyers
+C00322,2025-12-09,1.0,160.65,22.0,One-off Lapsed
+C00323,,,,,Prospect (no purchase)
+C00324,2025-02-24,2.0,411.32,310.0,Occasional Repeat
+C00325,,,,,Prospect (no purchase)
+C00326,,,,,Prospect (no purchase)
+C00327,2025-05-08,1.0,205.51,237.0,One-off Lapsed
+C00328,2025-11-18,2.0,559.39,43.0,Occasional Repeat
+C00329,,,,,Prospect (no purchase)
+C00330,2025-12-31,2.0,294.26,0.0,Recent Buyers
+C00331,,,,,Prospect (no purchase)
+C00332,2024-07-14,1.0,367.82,535.0,One-off Lapsed
+C00333,,,,,Prospect (no purchase)
+C00334,,,,,Prospect (no purchase)
+C00335,,,,,Prospect (no purchase)
+C00336,,,,,Prospect (no purchase)
+C00337,2024-10-24,1.0,210.62,433.0,One-off Lapsed
+C00338,,,,,Prospect (no purchase)
+C00339,,,,,Prospect (no purchase)
+C00340,,,,,Prospect (no purchase)
+C00341,2025-07-14,4.0,976.6600000000001,170.0,Champions
+C00342,2024-04-13,1.0,185.62,627.0,One-off Lapsed
+C00343,2025-05-04,1.0,230.68,241.0,One-off Lapsed
+C00344,,,,,Prospect (no purchase)
+C00345,2025-02-18,1.0,261.22,316.0,One-off Lapsed
+C00346,2025-05-13,1.0,312.52,232.0,One-off Lapsed
+C00347,2024-10-12,1.0,139.0,445.0,One-off Lapsed
+C00348,2025-05-09,1.0,168.76,236.0,One-off Lapsed
+C00349,,,,,Prospect (no purchase)
+C00350,,,,,Prospect (no purchase)
+C00351,,,,,Prospect (no purchase)
+C00352,2025-09-29,1.0,259.61,93.0,One-off Lapsed
+C00353,,,,,Prospect (no purchase)
+C00354,,,,,Prospect (no purchase)
+C00355,,,,,Prospect (no purchase)
+C00356,,,,,Prospect (no purchase)
+C00357,,,,,Prospect (no purchase)
+C00358,,,,,Prospect (no purchase)
+C00359,,,,,Prospect (no purchase)
+C00360,,,,,Prospect (no purchase)
+C00361,,,,,Prospect (no purchase)
+C00362,2025-09-29,1.0,148.48,93.0,One-off Lapsed
+C00363,,,,,Prospect (no purchase)
+C00364,,,,,Prospect (no purchase)
+C00365,,,,,Prospect (no purchase)
+C00366,,,,,Prospect (no purchase)
+C00367,,,,,Prospect (no purchase)
+C00368,2025-12-26,2.0,525.39,5.0,Recent Buyers
+C00369,,,,,Prospect (no purchase)
+C00370,,,,,Prospect (no purchase)
+C00371,,,,,Prospect (no purchase)
+C00372,,,,,Prospect (no purchase)
+C00373,,,,,Prospect (no purchase)
+C00374,,,,,Prospect (no purchase)
+C00375,,,,,Prospect (no purchase)
+C00376,,,,,Prospect (no purchase)
+C00377,,,,,Prospect (no purchase)
+C00378,,,,,Prospect (no purchase)
+C00379,2025-01-21,1.0,147.86,344.0,One-off Lapsed
+C00380,,,,,Prospect (no purchase)
+C00381,,,,,Prospect (no purchase)
+C00382,,,,,Prospect (no purchase)
+C00383,,,,,Prospect (no purchase)
+C00384,,,,,Prospect (no purchase)
+C00385,,,,,Prospect (no purchase)
+C00386,,,,,Prospect (no purchase)
+C00387,,,,,Prospect (no purchase)
+C00388,2024-12-11,3.0,815.5,385.0,Champions
+C00389,,,,,Prospect (no purchase)
+C00390,,,,,Prospect (no purchase)
+C00391,2024-09-15,1.0,105.81,472.0,One-off Lapsed
+C00392,2025-07-22,1.0,302.52,162.0,One-off Lapsed
+C00393,,,,,Prospect (no purchase)
+C00394,2025-04-22,1.0,392.87,253.0,One-off Lapsed
+C00395,,,,,Prospect (no purchase)
+C00396,,,,,Prospect (no purchase)
+C00397,2025-08-09,3.0,876.14,144.0,Champions
+C00398,2024-03-02,1.0,367.54,669.0,One-off Lapsed
+C00399,,,,,Prospect (no purchase)
+C00400,,,,,Prospect (no purchase)
+C00401,,,,,Prospect (no purchase)
+C00402,,,,,Prospect (no purchase)
+C00403,2025-09-24,2.0,281.8,98.0,Occasional Repeat
+C00404,,,,,Prospect (no purchase)
+C00405,,,,,Prospect (no purchase)
+C00406,,,,,Prospect (no purchase)
+C00407,,,,,Prospect (no purchase)
+C00408,,,,,Prospect (no purchase)
+C00409,,,,,Prospect (no purchase)
+C00410,2024-09-02,1.0,182.44,485.0,One-off Lapsed
+C00411,2025-12-31,3.0,1071.05,0.0,Recent Buyers
+C00412,,,,,Prospect (no purchase)
+C00413,,,,,Prospect (no purchase)
+C00414,2025-02-21,1.0,121.73,313.0,One-off Lapsed
+C00415,,,,,Prospect (no purchase)
+C00416,2024-07-06,1.0,520.95,543.0,One-off Lapsed
+C00417,,,,,Prospect (no purchase)
+C00418,,,,,Prospect (no purchase)
+C00419,,,,,Prospect (no purchase)
+C00420,,,,,Prospect (no purchase)
+C00421,,,,,Prospect (no purchase)
+C00422,,,,,Prospect (no purchase)
+C00423,2024-03-12,1.0,165.79,659.0,One-off Lapsed
+C00424,,,,,Prospect (no purchase)
+C00425,,,,,Prospect (no purchase)
+C00426,,,,,Prospect (no purchase)
+C00427,,,,,Prospect (no purchase)
+C00428,2025-10-01,1.0,428.78,91.0,One-off Lapsed
+C00429,,,,,Prospect (no purchase)
+C00430,,,,,Prospect (no purchase)
+C00431,,,,,Prospect (no purchase)
+C00432,2025-12-04,4.0,960.29,27.0,Champions
+C00433,,,,,Prospect (no purchase)
+C00434,,,,,Prospect (no purchase)
+C00435,,,,,Prospect (no purchase)
+C00436,2024-05-26,1.0,134.64,584.0,One-off Lapsed
+C00437,,,,,Prospect (no purchase)
+C00438,,,,,Prospect (no purchase)
+C00439,,,,,Prospect (no purchase)
+C00440,,,,,Prospect (no purchase)
+C00441,,,,,Prospect (no purchase)
+C00442,2025-05-06,1.0,146.6,239.0,One-off Lapsed
+C00443,,,,,Prospect (no purchase)
+C00444,,,,,Prospect (no purchase)
+C00445,,,,,Prospect (no purchase)
+C00446,,,,,Prospect (no purchase)
+C00447,,,,,Prospect (no purchase)
+C00448,,,,,Prospect (no purchase)
+C00449,,,,,Prospect (no purchase)
+C00450,,,,,Prospect (no purchase)
+C00451,,,,,Prospect (no purchase)
+C00452,,,,,Prospect (no purchase)
+C00453,,,,,Prospect (no purchase)
+C00454,2024-06-23,1.0,237.82,556.0,One-off Lapsed
+C00455,2024-10-27,1.0,254.85,430.0,One-off Lapsed
+C00456,2024-04-29,1.0,193.39,611.0,One-off Lapsed
+C00457,,,,,Prospect (no purchase)
+C00458,2024-03-28,1.0,198.59,643.0,One-off Lapsed
+C00459,,,,,Prospect (no purchase)
+C00460,,,,,Prospect (no purchase)
+C00461,,,,,Prospect (no purchase)
+C00462,,,,,Prospect (no purchase)
+C00463,,,,,Prospect (no purchase)
+C00464,,,,,Prospect (no purchase)
+C00465,2024-01-26,1.0,178.26,705.0,One-off Lapsed
+C00466,,,,,Prospect (no purchase)
+C00467,2025-10-03,1.0,181.41,89.0,One-off Lapsed
+C00468,,,,,Prospect (no purchase)
+C00469,,,,,Prospect (no purchase)
+C00470,,,,,Prospect (no purchase)
+C00471,2025-12-27,1.0,150.4,4.0,Recent Buyers
+C00472,,,,,Prospect (no purchase)
+C00473,,,,,Prospect (no purchase)
+C00474,,,,,Prospect (no purchase)
+C00475,,,,,Prospect (no purchase)
+C00476,2024-08-02,1.0,284.25,516.0,One-off Lapsed
+C00477,2024-03-03,2.0,711.05,668.0,Occasional Repeat
+C00478,,,,,Prospect (no purchase)
+C00479,,,,,Prospect (no purchase)
+C00480,,,,,Prospect (no purchase)
+C00481,,,,,Prospect (no purchase)
+C00482,,,,,Prospect (no purchase)
+C00483,,,,,Prospect (no purchase)
+C00484,,,,,Prospect (no purchase)
+C00485,,,,,Prospect (no purchase)
+C00486,,,,,Prospect (no purchase)
+C00487,,,,,Prospect (no purchase)
+C00488,,,,,Prospect (no purchase)
+C00489,,,,,Prospect (no purchase)
+C00490,2025-11-21,5.0,1052.51,40.0,Champions
+C00491,,,,,Prospect (no purchase)
+C00492,,,,,Prospect (no purchase)
+C00493,,,,,Prospect (no purchase)
+C00494,,,,,Prospect (no purchase)
+C00495,2025-12-01,1.0,168.47,30.0,One-off Lapsed
+C00496,2024-12-24,1.0,285.73,372.0,One-off Lapsed
+C00497,,,,,Prospect (no purchase)
+C00498,2024-06-24,1.0,351.01,555.0,One-off Lapsed
+C00499,,,,,Prospect (no purchase)
+C00500,2024-04-13,1.0,143.57,627.0,One-off Lapsed
+C00501,,,,,Prospect (no purchase)
+C00502,2025-07-11,3.0,789.44,173.0,Champions
+C00503,2024-09-27,1.0,234.35,460.0,One-off Lapsed
+C00504,,,,,Prospect (no purchase)
+C00505,,,,,Prospect (no purchase)
+C00506,,,,,Prospect (no purchase)
+C00507,,,,,Prospect (no purchase)
+C00508,2025-08-03,2.0,561.97,150.0,Occasional Repeat
+C00509,,,,,Prospect (no purchase)
+C00510,2024-09-19,1.0,243.66,468.0,One-off Lapsed
+C00511,,,,,Prospect (no purchase)
+C00512,,,,,Prospect (no purchase)
+C00513,,,,,Prospect (no purchase)
+C00514,,,,,Prospect (no purchase)
+C00515,,,,,Prospect (no purchase)
+C00516,,,,,Prospect (no purchase)
+C00517,,,,,Prospect (no purchase)
+C00518,2025-07-17,1.0,125.72,167.0,One-off Lapsed
+C00519,,,,,Prospect (no purchase)
+C00520,,,,,Prospect (no purchase)
+C00521,,,,,Prospect (no purchase)
+C00522,,,,,Prospect (no purchase)
+C00523,,,,,Prospect (no purchase)
+C00524,,,,,Prospect (no purchase)
+C00525,2024-06-26,2.0,395.24,553.0,Occasional Repeat
+C00526,,,,,Prospect (no purchase)
+C00527,,,,,Prospect (no purchase)
+C00528,,,,,Prospect (no purchase)
+C00529,2024-03-04,1.0,104.71,667.0,One-off Lapsed
+C00530,,,,,Prospect (no purchase)
+C00531,,,,,Prospect (no purchase)
+C00532,,,,,Prospect (no purchase)
+C00533,,,,,Prospect (no purchase)
+C00534,,,,,Prospect (no purchase)
+C00535,,,,,Prospect (no purchase)
+C00536,,,,,Prospect (no purchase)
+C00537,2024-09-12,1.0,154.19,475.0,One-off Lapsed
+C00538,,,,,Prospect (no purchase)
+C00539,,,,,Prospect (no purchase)
+C00540,,,,,Prospect (no purchase)
+C00541,,,,,Prospect (no purchase)
+C00542,2024-09-12,1.0,79.62,475.0,One-off Lapsed
+C00543,,,,,Prospect (no purchase)
+C00544,,,,,Prospect (no purchase)
+C00545,,,,,Prospect (no purchase)
+C00546,,,,,Prospect (no purchase)
+C00547,,,,,Prospect (no purchase)
+C00548,,,,,Prospect (no purchase)
+C00549,2025-02-04,2.0,460.35,330.0,Occasional Repeat
+C00550,,,,,Prospect (no purchase)
+C00551,,,,,Prospect (no purchase)
+C00552,2024-04-12,1.0,136.29,628.0,One-off Lapsed
+C00553,,,,,Prospect (no purchase)
+C00554,,,,,Prospect (no purchase)
+C00555,,,,,Prospect (no purchase)
+C00556,2024-11-26,1.0,180.11,400.0,One-off Lapsed
+C00557,,,,,Prospect (no purchase)
+C00558,,,,,Prospect (no purchase)
+C00559,,,,,Prospect (no purchase)
+C00560,,,,,Prospect (no purchase)
+C00561,,,,,Prospect (no purchase)
+C00562,2024-07-09,3.0,641.35,540.0,Champions
+C00563,2025-11-14,3.0,1420.15,47.0,Champions
+C00564,,,,,Prospect (no purchase)
+C00565,,,,,Prospect (no purchase)
+C00566,,,,,Prospect (no purchase)
+C00567,2025-12-14,1.0,174.92,17.0,Recent Buyers
+C00568,,,,,Prospect (no purchase)
+C00569,,,,,Prospect (no purchase)
+C00570,,,,,Prospect (no purchase)
+C00571,,,,,Prospect (no purchase)
+C00572,,,,,Prospect (no purchase)
+C00573,,,,,Prospect (no purchase)
+C00574,,,,,Prospect (no purchase)
+C00575,,,,,Prospect (no purchase)
+C00576,2024-05-23,1.0,298.74,587.0,One-off Lapsed
+C00577,,,,,Prospect (no purchase)
+C00578,,,,,Prospect (no purchase)
+C00579,2025-11-03,1.0,187.44,58.0,One-off Lapsed
+C00580,2025-11-10,3.0,1023.9200000000001,51.0,Champions
+C00581,,,,,Prospect (no purchase)
+C00582,2024-05-06,1.0,210.24,604.0,One-off Lapsed
+C00583,,,,,Prospect (no purchase)
+C00584,,,,,Prospect (no purchase)
+C00585,,,,,Prospect (no purchase)
+C00586,,,,,Prospect (no purchase)
+C00587,,,,,Prospect (no purchase)
+C00588,,,,,Prospect (no purchase)
+C00589,,,,,Prospect (no purchase)
+C00590,,,,,Prospect (no purchase)
+C00591,,,,,Prospect (no purchase)
+C00592,,,,,Prospect (no purchase)
+C00593,,,,,Prospect (no purchase)
+C00594,,,,,Prospect (no purchase)
+C00595,,,,,Prospect (no purchase)
+C00596,,,,,Prospect (no purchase)
+C00597,,,,,Prospect (no purchase)
+C00598,,,,,Prospect (no purchase)
+C00599,,,,,Prospect (no purchase)
+C00600,2025-05-01,1.0,258.05,244.0,One-off Lapsed
+C00601,2024-12-25,2.0,382.06,371.0,Occasional Repeat
+C00602,,,,,Prospect (no purchase)
+C00603,,,,,Prospect (no purchase)
+C00604,,,,,Prospect (no purchase)
+C00605,,,,,Prospect (no purchase)
+C00606,,,,,Prospect (no purchase)
+C00607,,,,,Prospect (no purchase)
+C00608,2024-02-25,1.0,137.53,675.0,One-off Lapsed
+C00609,2024-09-03,1.0,119.25,484.0,One-off Lapsed
+C00610,,,,,Prospect (no purchase)
+C00611,,,,,Prospect (no purchase)
+C00612,,,,,Prospect (no purchase)
+C00613,,,,,Prospect (no purchase)
+C00614,,,,,Prospect (no purchase)
+C00615,2024-09-14,2.0,258.54999999999995,473.0,Occasional Repeat
+C00616,,,,,Prospect (no purchase)
+C00617,,,,,Prospect (no purchase)
+C00618,,,,,Prospect (no purchase)
+C00619,,,,,Prospect (no purchase)
+C00620,,,,,Prospect (no purchase)
+C00621,,,,,Prospect (no purchase)
+C00622,,,,,Prospect (no purchase)
+C00623,2025-08-10,1.0,255.6,143.0,One-off Lapsed
+C00624,,,,,Prospect (no purchase)
+C00625,2025-04-27,1.0,208.49,248.0,One-off Lapsed
+C00626,,,,,Prospect (no purchase)
+C00627,,,,,Prospect (no purchase)
+C00628,,,,,Prospect (no purchase)
+C00629,,,,,Prospect (no purchase)
+C00630,,,,,Prospect (no purchase)
+C00631,,,,,Prospect (no purchase)
+C00632,,,,,Prospect (no purchase)
+C00633,2024-10-27,1.0,131.53,430.0,One-off Lapsed
+C00634,,,,,Prospect (no purchase)
+C00635,,,,,Prospect (no purchase)
+C00636,,,,,Prospect (no purchase)
+C00637,2025-04-07,1.0,167.73,268.0,One-off Lapsed
+C00638,,,,,Prospect (no purchase)
+C00639,,,,,Prospect (no purchase)
+C00640,2024-07-03,1.0,237.37,546.0,One-off Lapsed
+C00641,,,,,Prospect (no purchase)
+C00642,,,,,Prospect (no purchase)
+C00643,,,,,Prospect (no purchase)
+C00644,,,,,Prospect (no purchase)
+C00645,,,,,Prospect (no purchase)
+C00646,,,,,Prospect (no purchase)
+C00647,,,,,Prospect (no purchase)
+C00648,,,,,Prospect (no purchase)
+C00649,,,,,Prospect (no purchase)
+C00650,2024-12-06,1.0,173.72,390.0,One-off Lapsed
+C00651,,,,,Prospect (no purchase)
+C00652,,,,,Prospect (no purchase)
+C00653,,,,,Prospect (no purchase)
+C00654,,,,,Prospect (no purchase)
+C00655,,,,,Prospect (no purchase)
+C00656,,,,,Prospect (no purchase)
+C00657,,,,,Prospect (no purchase)
+C00658,2024-09-28,1.0,132.22,459.0,One-off Lapsed
+C00659,,,,,Prospect (no purchase)
+C00660,,,,,Prospect (no purchase)
+C00661,,,,,Prospect (no purchase)
+C00662,2024-06-13,1.0,142.77,566.0,One-off Lapsed
+C00663,2025-11-21,1.0,230.12,40.0,One-off Lapsed
+C00664,2024-03-29,1.0,220.46,642.0,One-off Lapsed
+C00665,,,,,Prospect (no purchase)
+C00666,,,,,Prospect (no purchase)
+C00667,,,,,Prospect (no purchase)
+C00668,,,,,Prospect (no purchase)
+C00669,,,,,Prospect (no purchase)
+C00670,,,,,Prospect (no purchase)
+C00671,,,,,Prospect (no purchase)
+C00672,2024-02-16,1.0,183.37,684.0,One-off Lapsed
+C00673,2025-02-27,1.0,243.49,307.0,One-off Lapsed
+C00674,2025-03-01,1.0,97.9,305.0,One-off Lapsed
+C00675,,,,,Prospect (no purchase)
+C00676,,,,,Prospect (no purchase)
+C00677,2024-05-19,1.0,311.89,591.0,One-off Lapsed
+C00678,2025-09-14,2.0,583.7,108.0,Occasional Repeat
+C00679,,,,,Prospect (no purchase)
+C00680,,,,,Prospect (no purchase)
+C00681,,,,,Prospect (no purchase)
+C00682,,,,,Prospect (no purchase)
+C00683,,,,,Prospect (no purchase)
+C00684,,,,,Prospect (no purchase)
+C00685,2024-05-11,1.0,150.19,599.0,One-off Lapsed
+C00686,,,,,Prospect (no purchase)
+C00687,2025-12-27,1.0,139.11,4.0,Recent Buyers
+C00688,,,,,Prospect (no purchase)
+C00689,,,,,Prospect (no purchase)
+C00690,,,,,Prospect (no purchase)
+C00691,,,,,Prospect (no purchase)
+C00692,,,,,Prospect (no purchase)
+C00693,2024-05-29,1.0,225.03,581.0,One-off Lapsed
+C00694,,,,,Prospect (no purchase)
+C00695,2025-09-16,1.0,222.33,106.0,One-off Lapsed
+C00696,,,,,Prospect (no purchase)
+C00697,,,,,Prospect (no purchase)
+C00698,2025-12-26,1.0,236.33,5.0,Recent Buyers
+C00699,,,,,Prospect (no purchase)
+C00700,2025-05-08,2.0,470.4,237.0,Occasional Repeat
+C00701,,,,,Prospect (no purchase)
+C00702,2025-11-16,2.0,1007.16,45.0,Occasional Repeat
+C00703,,,,,Prospect (no purchase)
+C00704,2025-11-12,1.0,407.88,49.0,One-off Lapsed
+C00705,,,,,Prospect (no purchase)
+C00706,,,,,Prospect (no purchase)
+C00707,,,,,Prospect (no purchase)
+C00708,,,,,Prospect (no purchase)
+C00709,,,,,Prospect (no purchase)
+C00710,2025-01-19,1.0,258.11,346.0,One-off Lapsed
+C00711,2025-04-29,3.0,544.1600000000001,246.0,Champions
+C00712,,,,,Prospect (no purchase)
+C00713,2025-02-24,1.0,275.33,310.0,One-off Lapsed
+C00714,,,,,Prospect (no purchase)
+C00715,,,,,Prospect (no purchase)
+C00716,,,,,Prospect (no purchase)
+C00717,,,,,Prospect (no purchase)
+C00718,,,,,Prospect (no purchase)
+C00719,,,,,Prospect (no purchase)
+C00720,,,,,Prospect (no purchase)
+C00721,2025-04-28,1.0,88.85,247.0,One-off Lapsed
+C00722,2025-04-13,2.0,504.61,262.0,Occasional Repeat
+C00723,2025-12-08,1.0,155.77,23.0,One-off Lapsed
+C00724,,,,,Prospect (no purchase)
+C00725,,,,,Prospect (no purchase)
+C00726,2025-05-12,1.0,302.64,233.0,One-off Lapsed
+C00727,,,,,Prospect (no purchase)
+C00728,,,,,Prospect (no purchase)
+C00729,,,,,Prospect (no purchase)
+C00730,,,,,Prospect (no purchase)
+C00731,2025-11-03,2.0,379.12,58.0,Occasional Repeat
+C00732,,,,,Prospect (no purchase)
+C00733,2025-12-31,3.0,605.74,0.0,Recent Buyers
+C00734,,,,,Prospect (no purchase)
+C00735,,,,,Prospect (no purchase)
+C00736,,,,,Prospect (no purchase)
+C00737,,,,,Prospect (no purchase)
+C00738,,,,,Prospect (no purchase)
+C00739,,,,,Prospect (no purchase)
+C00740,,,,,Prospect (no purchase)
+C00741,2025-02-04,1.0,460.42,330.0,One-off Lapsed
+C00742,,,,,Prospect (no purchase)
+C00743,,,,,Prospect (no purchase)
+C00744,,,,,Prospect (no purchase)
+C00745,,,,,Prospect (no purchase)
+C00746,,,,,Prospect (no purchase)
+C00747,,,,,Prospect (no purchase)
+C00748,,,,,Prospect (no purchase)
+C00749,,,,,Prospect (no purchase)
+C00750,,,,,Prospect (no purchase)
+C00751,2025-01-24,2.0,508.1,341.0,Occasional Repeat
+C00752,,,,,Prospect (no purchase)
+C00753,,,,,Prospect (no purchase)
+C00754,2025-01-24,3.0,1051.12,341.0,Champions
+C00755,2024-10-14,2.0,417.33,443.0,Occasional Repeat
+C00756,,,,,Prospect (no purchase)
+C00757,2024-04-23,3.0,897.1700000000001,617.0,Champions
+C00758,,,,,Prospect (no purchase)
+C00759,,,,,Prospect (no purchase)
+C00760,,,,,Prospect (no purchase)
+C00761,,,,,Prospect (no purchase)
+C00762,,,,,Prospect (no purchase)
+C00763,,,,,Prospect (no purchase)
+C00764,2025-11-18,3.0,904.14,43.0,Champions
+C00765,2024-01-24,1.0,155.02,707.0,One-off Lapsed
+C00766,2024-04-24,1.0,280.75,616.0,One-off Lapsed
+C00767,,,,,Prospect (no purchase)
+C00768,2025-10-29,1.0,97.23,63.0,One-off Lapsed
+C00769,,,,,Prospect (no purchase)
+C00770,2024-06-28,1.0,210.3,551.0,One-off Lapsed
+C00771,2024-05-21,1.0,308.88,589.0,One-off Lapsed
+C00772,,,,,Prospect (no purchase)
+C00773,2024-11-22,2.0,396.36,404.0,Occasional Repeat
+C00774,,,,,Prospect (no purchase)
+C00775,2025-02-04,1.0,169.16,330.0,One-off Lapsed
+C00776,,,,,Prospect (no purchase)
+C00777,,,,,Prospect (no purchase)
+C00778,,,,,Prospect (no purchase)
+C00779,,,,,Prospect (no purchase)
+C00780,2025-05-14,2.0,422.07,231.0,Occasional Repeat
+C00781,,,,,Prospect (no purchase)
+C00782,,,,,Prospect (no purchase)
+C00783,,,,,Prospect (no purchase)
+C00784,,,,,Prospect (no purchase)
+C00785,,,,,Prospect (no purchase)
+C00786,2024-09-20,2.0,885.05,467.0,Occasional Repeat
+C00787,,,,,Prospect (no purchase)
+C00788,,,,,Prospect (no purchase)
+C00789,,,,,Prospect (no purchase)
+C00790,,,,,Prospect (no purchase)
+C00791,2025-04-26,2.0,573.62,249.0,Occasional Repeat
+C00792,,,,,Prospect (no purchase)
+C00793,2025-11-02,1.0,242.26,59.0,One-off Lapsed
+C00794,2024-10-02,2.0,558.8399999999999,455.0,Occasional Repeat
+C00795,2025-07-07,1.0,130.73,177.0,One-off Lapsed
+C00796,,,,,Prospect (no purchase)
+C00797,,,,,Prospect (no purchase)
+C00798,,,,,Prospect (no purchase)
+C00799,,,,,Prospect (no purchase)
+C00800,,,,,Prospect (no purchase)
+C00801,,,,,Prospect (no purchase)
+C00802,,,,,Prospect (no purchase)
+C00803,2024-09-27,1.0,191.06,460.0,One-off Lapsed
+C00804,2025-09-14,2.0,520.29,108.0,Occasional Repeat
+C00805,,,,,Prospect (no purchase)
+C00806,,,,,Prospect (no purchase)
+C00807,,,,,Prospect (no purchase)
+C00808,,,,,Prospect (no purchase)
+C00809,2025-01-20,1.0,120.04,345.0,One-off Lapsed
+C00810,2025-09-20,1.0,166.63,102.0,One-off Lapsed
+C00811,2025-04-09,1.0,104.16,266.0,One-off Lapsed
+C00812,,,,,Prospect (no purchase)
+C00813,,,,,Prospect (no purchase)
+C00814,,,,,Prospect (no purchase)
+C00815,2025-11-02,1.0,148.03,59.0,One-off Lapsed
+C00816,,,,,Prospect (no purchase)
+C00817,,,,,Prospect (no purchase)
+C00818,,,,,Prospect (no purchase)
+C00819,2025-02-14,3.0,984.3299999999999,320.0,Champions
+C00820,,,,,Prospect (no purchase)
+C00821,2024-11-26,1.0,155.97,400.0,One-off Lapsed
+C00822,,,,,Prospect (no purchase)
+C00823,2025-02-17,1.0,216.85,317.0,One-off Lapsed
+C00824,,,,,Prospect (no purchase)
+C00825,,,,,Prospect (no purchase)
+C00826,,,,,Prospect (no purchase)
+C00827,2025-09-22,1.0,335.04,100.0,One-off Lapsed
+C00828,,,,,Prospect (no purchase)
+C00829,,,,,Prospect (no purchase)
+C00830,,,,,Prospect (no purchase)
+C00831,,,,,Prospect (no purchase)
+C00832,2024-04-21,1.0,180.29,619.0,One-off Lapsed
+C00833,2024-11-18,1.0,256.17,408.0,One-off Lapsed
+C00834,2025-09-15,1.0,232.01,107.0,One-off Lapsed
+C00835,,,,,Prospect (no purchase)
+C00836,,,,,Prospect (no purchase)
+C00837,,,,,Prospect (no purchase)
+C00838,,,,,Prospect (no purchase)
+C00839,,,,,Prospect (no purchase)
+C00840,,,,,Prospect (no purchase)
+C00841,2025-03-24,1.0,281.84,282.0,One-off Lapsed
+C00842,,,,,Prospect (no purchase)
+C00843,,,,,Prospect (no purchase)
+C00844,,,,,Prospect (no purchase)
+C00845,2024-07-13,1.0,211.27,536.0,One-off Lapsed
+C00846,,,,,Prospect (no purchase)
+C00847,,,,,Prospect (no purchase)
+C00848,2025-12-31,1.0,247.97,0.0,Recent Buyers
+C00849,2024-10-23,1.0,221.36,434.0,One-off Lapsed
+C00850,,,,,Prospect (no purchase)
+C00851,2025-01-22,1.0,197.99,343.0,One-off Lapsed
+C00852,,,,,Prospect (no purchase)
+C00853,,,,,Prospect (no purchase)
+C00854,,,,,Prospect (no purchase)
+C00855,2024-07-15,1.0,139.33,534.0,One-off Lapsed
+C00856,,,,,Prospect (no purchase)
+C00857,,,,,Prospect (no purchase)
+C00858,,,,,Prospect (no purchase)
+C00859,,,,,Prospect (no purchase)
+C00860,,,,,Prospect (no purchase)
+C00861,,,,,Prospect (no purchase)
+C00862,,,,,Prospect (no purchase)
+C00863,2024-03-11,1.0,396.95,660.0,One-off Lapsed
+C00864,,,,,Prospect (no purchase)
+C00865,2025-03-06,2.0,638.23,300.0,Occasional Repeat
+C00866,,,,,Prospect (no purchase)
+C00867,,,,,Prospect (no purchase)
+C00868,2024-07-03,1.0,158.35,546.0,One-off Lapsed
+C00869,2024-02-23,1.0,194.49,677.0,One-off Lapsed
+C00870,,,,,Prospect (no purchase)
+C00871,2025-07-16,1.0,260.68,168.0,One-off Lapsed
+C00872,,,,,Prospect (no purchase)
+C00873,,,,,Prospect (no purchase)
+C00874,,,,,Prospect (no purchase)
+C00875,,,,,Prospect (no purchase)
+C00876,,,,,Prospect (no purchase)
+C00877,2024-12-25,1.0,134.54,371.0,One-off Lapsed
+C00878,,,,,Prospect (no purchase)
+C00879,,,,,Prospect (no purchase)
+C00880,,,,,Prospect (no purchase)
+C00881,2025-05-04,1.0,177.57,241.0,One-off Lapsed
+C00882,,,,,Prospect (no purchase)
+C00883,,,,,Prospect (no purchase)
+C00884,,,,,Prospect (no purchase)
+C00885,2024-11-19,2.0,560.89,407.0,Occasional Repeat
+C00886,,,,,Prospect (no purchase)
+C00887,2024-09-20,1.0,137.75,467.0,One-off Lapsed
+C00888,2025-05-11,2.0,405.75,234.0,Occasional Repeat
+C00889,,,,,Prospect (no purchase)
+C00890,2024-10-09,1.0,282.64,448.0,One-off Lapsed
+C00891,,,,,Prospect (no purchase)
+C00892,,,,,Prospect (no purchase)
+C00893,,,,,Prospect (no purchase)
+C00894,,,,,Prospect (no purchase)
+C00895,,,,,Prospect (no purchase)
+C00896,,,,,Prospect (no purchase)
+C00897,2025-01-30,1.0,174.92,335.0,One-off Lapsed
+C00898,2024-12-17,1.0,176.1,379.0,One-off Lapsed
+C00899,,,,,Prospect (no purchase)
+C00900,,,,,Prospect (no purchase)
+C00901,,,,,Prospect (no purchase)
+C00902,2024-05-22,1.0,143.63,588.0,One-off Lapsed
+C00903,,,,,Prospect (no purchase)
+C00904,,,,,Prospect (no purchase)
+C00905,,,,,Prospect (no purchase)
+C00906,,,,,Prospect (no purchase)
+C00907,,,,,Prospect (no purchase)
+C00908,,,,,Prospect (no purchase)
+C00909,,,,,Prospect (no purchase)
+C00910,,,,,Prospect (no purchase)
+C00911,,,,,Prospect (no purchase)
+C00912,,,,,Prospect (no purchase)
+C00913,,,,,Prospect (no purchase)
+C00914,,,,,Prospect (no purchase)
+C00915,,,,,Prospect (no purchase)
+C00916,2024-10-10,3.0,1244.37,447.0,Champions
+C00917,,,,,Prospect (no purchase)
+C00918,2025-04-26,2.0,260.12,249.0,Occasional Repeat
+C00919,,,,,Prospect (no purchase)
+C00920,,,,,Prospect (no purchase)
+C00921,,,,,Prospect (no purchase)
+C00922,,,,,Prospect (no purchase)
+C00923,2024-07-01,1.0,410.05,548.0,One-off Lapsed
+C00924,,,,,Prospect (no purchase)
+C00925,,,,,Prospect (no purchase)
+C00926,,,,,Prospect (no purchase)
+C00927,,,,,Prospect (no purchase)
+C00928,,,,,Prospect (no purchase)
+C00929,,,,,Prospect (no purchase)
+C00930,,,,,Prospect (no purchase)
+C00931,,,,,Prospect (no purchase)
+C00932,,,,,Prospect (no purchase)
+C00933,,,,,Prospect (no purchase)
+C00934,,,,,Prospect (no purchase)
+C00935,,,,,Prospect (no purchase)
+C00936,,,,,Prospect (no purchase)
+C00937,2024-04-06,2.0,501.79,634.0,Occasional Repeat
+C00938,,,,,Prospect (no purchase)
+C00939,,,,,Prospect (no purchase)
+C00940,,,,,Prospect (no purchase)
+C00941,,,,,Prospect (no purchase)
+C00942,,,,,Prospect (no purchase)
+C00943,2024-10-30,1.0,222.76,427.0,One-off Lapsed
+C00944,,,,,Prospect (no purchase)
+C00945,,,,,Prospect (no purchase)
+C00946,,,,,Prospect (no purchase)
+C00947,,,,,Prospect (no purchase)
+C00948,,,,,Prospect (no purchase)
+C00949,,,,,Prospect (no purchase)
+C00950,,,,,Prospect (no purchase)
+C00951,,,,,Prospect (no purchase)
+C00952,,,,,Prospect (no purchase)
+C00953,,,,,Prospect (no purchase)
+C00954,,,,,Prospect (no purchase)
+C00955,2025-02-04,1.0,181.79,330.0,One-off Lapsed
+C00956,,,,,Prospect (no purchase)
+C00957,,,,,Prospect (no purchase)
+C00958,,,,,Prospect (no purchase)
+C00959,,,,,Prospect (no purchase)
+C00960,,,,,Prospect (no purchase)
+C00961,2024-12-23,1.0,318.26,373.0,One-off Lapsed
+C00962,2024-10-29,1.0,96.55,428.0,One-off Lapsed
+C00963,2024-06-30,3.0,1100.6399999999999,549.0,Champions
+C00964,2025-04-27,1.0,324.01,248.0,One-off Lapsed
+C00965,,,,,Prospect (no purchase)
+C00966,2025-11-15,1.0,283.21,46.0,One-off Lapsed
+C00967,,,,,Prospect (no purchase)
+C00968,,,,,Prospect (no purchase)
+C00969,,,,,Prospect (no purchase)
+C00970,2025-02-17,1.0,253.01,317.0,One-off Lapsed
+C00971,,,,,Prospect (no purchase)
+C00972,,,,,Prospect (no purchase)
+C00973,2025-06-01,1.0,185.82,213.0,One-off Lapsed
+C00974,2024-02-03,1.0,165.09,697.0,One-off Lapsed
+C00975,2025-11-22,1.0,187.05,39.0,One-off Lapsed
+C00976,2024-12-08,2.0,533.63,388.0,Occasional Repeat
+C00977,,,,,Prospect (no purchase)
+C00978,,,,,Prospect (no purchase)
+C00979,,,,,Prospect (no purchase)
+C00980,,,,,Prospect (no purchase)
+C00981,,,,,Prospect (no purchase)
+C00982,,,,,Prospect (no purchase)
+C00983,2025-11-14,1.0,148.15,47.0,One-off Lapsed
+C00984,2024-12-01,1.0,115.98,395.0,One-off Lapsed
+C00985,,,,,Prospect (no purchase)
+C00986,,,,,Prospect (no purchase)
+C00987,,,,,Prospect (no purchase)
+C00988,,,,,Prospect (no purchase)
+C00989,,,,,Prospect (no purchase)
+C00990,,,,,Prospect (no purchase)
+C00991,,,,,Prospect (no purchase)
+C00992,2025-10-04,1.0,239.03,88.0,One-off Lapsed
+C00993,,,,,Prospect (no purchase)
+C00994,,,,,Prospect (no purchase)
+C00995,,,,,Prospect (no purchase)
+C00996,,,,,Prospect (no purchase)
+C00997,,,,,Prospect (no purchase)
+C00998,2025-03-23,2.0,396.0,283.0,Occasional Repeat
+C00999,,,,,Prospect (no purchase)
+C01000,,,,,Prospect (no purchase)
+C01001,,,,,Prospect (no purchase)
+C01002,,,,,Prospect (no purchase)
+C01003,,,,,Prospect (no purchase)
+C01004,,,,,Prospect (no purchase)
+C01005,,,,,Prospect (no purchase)
+C01006,2025-12-29,5.0,1303.25,2.0,Champions
+C01007,,,,,Prospect (no purchase)
+C01008,,,,,Prospect (no purchase)
+C01009,,,,,Prospect (no purchase)
+C01010,,,,,Prospect (no purchase)
+C01011,,,,,Prospect (no purchase)
+C01012,2024-09-30,1.0,195.44,457.0,One-off Lapsed
+C01013,2025-08-25,2.0,406.97,128.0,Occasional Repeat
+C01014,,,,,Prospect (no purchase)
+C01015,2024-07-13,1.0,414.59,536.0,One-off Lapsed
+C01016,,,,,Prospect (no purchase)
+C01017,,,,,Prospect (no purchase)
+C01018,2024-07-09,1.0,507.52,540.0,One-off Lapsed
+C01019,2025-01-15,1.0,235.6,350.0,One-off Lapsed
+C01020,,,,,Prospect (no purchase)
+C01021,,,,,Prospect (no purchase)
+C01022,,,,,Prospect (no purchase)
+C01023,,,,,Prospect (no purchase)
+C01024,2025-01-09,3.0,668.62,356.0,Champions
+C01025,2024-06-26,1.0,217.12,553.0,One-off Lapsed
+C01026,,,,,Prospect (no purchase)
+C01027,,,,,Prospect (no purchase)
+C01028,2024-12-27,1.0,223.84,369.0,One-off Lapsed
+C01029,,,,,Prospect (no purchase)
+C01030,,,,,Prospect (no purchase)
+C01031,2024-02-29,2.0,346.59,671.0,Occasional Repeat
+C01032,,,,,Prospect (no purchase)
+C01033,,,,,Prospect (no purchase)
+C01034,,,,,Prospect (no purchase)
+C01035,,,,,Prospect (no purchase)
+C01036,2024-12-31,1.0,280.66,365.0,One-off Lapsed
+C01037,,,,,Prospect (no purchase)
+C01038,2024-10-23,1.0,280.11,434.0,One-off Lapsed
+C01039,,,,,Prospect (no purchase)
+C01040,,,,,Prospect (no purchase)
+C01041,,,,,Prospect (no purchase)
+C01042,,,,,Prospect (no purchase)
+C01043,,,,,Prospect (no purchase)
+C01044,,,,,Prospect (no purchase)
+C01045,,,,,Prospect (no purchase)
+C01046,,,,,Prospect (no purchase)
+C01047,2024-08-28,1.0,147.55,490.0,One-off Lapsed
+C01048,,,,,Prospect (no purchase)
+C01049,,,,,Prospect (no purchase)
+C01050,,,,,Prospect (no purchase)
+C01051,,,,,Prospect (no purchase)
+C01052,,,,,Prospect (no purchase)
+C01053,,,,,Prospect (no purchase)
+C01054,,,,,Prospect (no purchase)
+C01055,,,,,Prospect (no purchase)
+C01056,,,,,Prospect (no purchase)
+C01057,,,,,Prospect (no purchase)
+C01058,2024-11-16,1.0,153.5,410.0,One-off Lapsed
+C01059,2024-04-23,1.0,232.61,617.0,One-off Lapsed
+C01060,,,,,Prospect (no purchase)
+C01061,,,,,Prospect (no purchase)
+C01062,,,,,Prospect (no purchase)
+C01063,,,,,Prospect (no purchase)
+C01064,,,,,Prospect (no purchase)
+C01065,,,,,Prospect (no purchase)
+C01066,,,,,Prospect (no purchase)
+C01067,,,,,Prospect (no purchase)
+C01068,,,,,Prospect (no purchase)
+C01069,,,,,Prospect (no purchase)
+C01070,,,,,Prospect (no purchase)
+C01071,,,,,Prospect (no purchase)
+C01072,2024-11-22,2.0,460.08,404.0,Occasional Repeat
+C01073,2025-05-27,1.0,234.36,218.0,One-off Lapsed
+C01074,2025-02-15,1.0,293.28,319.0,One-off Lapsed
+C01075,,,,,Prospect (no purchase)
+C01076,,,,,Prospect (no purchase)
+C01077,,,,,Prospect (no purchase)
+C01078,,,,,Prospect (no purchase)
+C01079,,,,,Prospect (no purchase)
+C01080,,,,,Prospect (no purchase)
+C01081,,,,,Prospect (no purchase)
+C01082,,,,,Prospect (no purchase)
+C01083,,,,,Prospect (no purchase)
+C01084,,,,,Prospect (no purchase)
+C01085,,,,,Prospect (no purchase)
+C01086,2024-04-13,1.0,192.89,627.0,One-off Lapsed
+C01087,2024-08-18,1.0,241.29,500.0,One-off Lapsed
+C01088,,,,,Prospect (no purchase)
+C01089,,,,,Prospect (no purchase)
+C01090,,,,,Prospect (no purchase)
+C01091,2024-11-05,1.0,282.23,421.0,One-off Lapsed
+C01092,,,,,Prospect (no purchase)
+C01093,,,,,Prospect (no purchase)
+C01094,,,,,Prospect (no purchase)
+C01095,2024-01-11,1.0,90.37,720.0,One-off Lapsed
+C01096,,,,,Prospect (no purchase)
+C01097,2025-06-15,1.0,228.43,199.0,One-off Lapsed
+C01098,,,,,Prospect (no purchase)
+C01099,2025-11-05,3.0,699.92,56.0,Champions
+C01100,,,,,Prospect (no purchase)
+C01101,,,,,Prospect (no purchase)
+C01102,,,,,Prospect (no purchase)
+C01103,,,,,Prospect (no purchase)
+C01104,,,,,Prospect (no purchase)
+C01105,,,,,Prospect (no purchase)
+C01106,,,,,Prospect (no purchase)
+C01107,2024-07-13,1.0,123.43,536.0,One-off Lapsed
+C01108,2025-09-25,1.0,158.27,97.0,One-off Lapsed
+C01109,,,,,Prospect (no purchase)
+C01110,,,,,Prospect (no purchase)
+C01111,,,,,Prospect (no purchase)
+C01112,,,,,Prospect (no purchase)
+C01113,,,,,Prospect (no purchase)
+C01114,,,,,Prospect (no purchase)
+C01115,,,,,Prospect (no purchase)
+C01116,,,,,Prospect (no purchase)
+C01117,,,,,Prospect (no purchase)
+C01118,2025-10-01,1.0,275.41,91.0,One-off Lapsed
+C01119,,,,,Prospect (no purchase)
+C01120,,,,,Prospect (no purchase)
+C01121,,,,,Prospect (no purchase)
+C01122,2025-05-12,1.0,127.37,233.0,One-off Lapsed
+C01123,2025-05-02,1.0,433.94,243.0,One-off Lapsed
+C01124,,,,,Prospect (no purchase)
+C01125,2025-06-01,1.0,186.09,213.0,One-off Lapsed
+C01126,,,,,Prospect (no purchase)
+C01127,,,,,Prospect (no purchase)
+C01128,,,,,Prospect (no purchase)
+C01129,,,,,Prospect (no purchase)
+C01130,,,,,Prospect (no purchase)
+C01131,,,,,Prospect (no purchase)
+C01132,,,,,Prospect (no purchase)
+C01133,,,,,Prospect (no purchase)
+C01134,2024-05-17,1.0,261.11,593.0,One-off Lapsed
+C01135,,,,,Prospect (no purchase)
+C01136,2024-03-20,1.0,323.22,651.0,One-off Lapsed
+C01137,,,,,Prospect (no purchase)
+C01138,,,,,Prospect (no purchase)
+C01139,,,,,Prospect (no purchase)
+C01140,,,,,Prospect (no purchase)
+C01141,,,,,Prospect (no purchase)
+C01142,,,,,Prospect (no purchase)
+C01143,,,,,Prospect (no purchase)
+C01144,,,,,Prospect (no purchase)
+C01145,2024-08-06,2.0,699.81,512.0,Occasional Repeat
+C01146,,,,,Prospect (no purchase)
+C01147,,,,,Prospect (no purchase)
+C01148,,,,,Prospect (no purchase)
+C01149,,,,,Prospect (no purchase)
+C01150,,,,,Prospect (no purchase)
+C01151,2025-12-07,1.0,125.61,24.0,One-off Lapsed
+C01152,2025-12-31,4.0,1954.52,0.0,Champions
+C01153,,,,,Prospect (no purchase)
+C01154,,,,,Prospect (no purchase)
+C01155,,,,,Prospect (no purchase)
+C01156,,,,,Prospect (no purchase)
+C01157,,,,,Prospect (no purchase)
+C01158,,,,,Prospect (no purchase)
+C01159,,,,,Prospect (no purchase)
+C01160,2024-09-21,2.0,261.22,466.0,Occasional Repeat
+C01161,2025-07-14,1.0,256.21,170.0,One-off Lapsed
+C01162,,,,,Prospect (no purchase)
+C01163,2025-03-04,1.0,201.96,302.0,One-off Lapsed
+C01164,,,,,Prospect (no purchase)
+C01165,,,,,Prospect (no purchase)
+C01166,,,,,Prospect (no purchase)
+C01167,,,,,Prospect (no purchase)
+C01168,,,,,Prospect (no purchase)
+C01169,,,,,Prospect (no purchase)
+C01170,2024-02-27,1.0,653.2,673.0,Occasional Repeat
+C01171,,,,,Prospect (no purchase)
+C01172,,,,,Prospect (no purchase)
+C01173,,,,,Prospect (no purchase)
+C01174,,,,,Prospect (no purchase)
+C01175,,,,,Prospect (no purchase)
+C01176,,,,,Prospect (no purchase)
+C01177,,,,,Prospect (no purchase)
+C01178,,,,,Prospect (no purchase)
+C01179,2025-01-04,1.0,143.51,361.0,One-off Lapsed
+C01180,,,,,Prospect (no purchase)
+C01181,,,,,Prospect (no purchase)
+C01182,,,,,Prospect (no purchase)
+C01183,,,,,Prospect (no purchase)
+C01184,2024-09-26,1.0,157.01,461.0,One-off Lapsed
+C01185,,,,,Prospect (no purchase)
+C01186,,,,,Prospect (no purchase)
+C01187,,,,,Prospect (no purchase)
+C01188,,,,,Prospect (no purchase)
+C01189,,,,,Prospect (no purchase)
+C01190,2025-01-10,1.0,175.55,355.0,One-off Lapsed
+C01191,,,,,Prospect (no purchase)
+C01192,,,,,Prospect (no purchase)
+C01193,,,,,Prospect (no purchase)
+C01194,2025-11-25,1.0,300.11,36.0,One-off Lapsed
+C01195,,,,,Prospect (no purchase)
+C01196,,,,,Prospect (no purchase)
+C01197,,,,,Prospect (no purchase)
+C01198,,,,,Prospect (no purchase)
+C01199,,,,,Prospect (no purchase)
+C01200,,,,,Prospect (no purchase)
+C01201,2025-08-21,1.0,139.84,132.0,One-off Lapsed
+C01202,2025-08-25,5.0,1102.66,128.0,Champions
+C01203,2025-12-31,1.0,196.08,0.0,Recent Buyers
+C01204,,,,,Prospect (no purchase)
+C01205,,,,,Prospect (no purchase)
+C01206,2025-12-06,2.0,580.64,25.0,Occasional Repeat
+C01207,,,,,Prospect (no purchase)
+C01208,,,,,Prospect (no purchase)
+C01209,,,,,Prospect (no purchase)
+C01210,2024-09-22,3.0,796.01,465.0,Champions
+C01211,,,,,Prospect (no purchase)
+C01212,2025-11-19,2.0,824.1,42.0,Occasional Repeat
+C01213,2024-05-09,1.0,205.03,601.0,One-off Lapsed
+C01214,,,,,Prospect (no purchase)
+C01215,2024-12-07,1.0,602.59,389.0,Occasional Repeat
+C01216,2024-12-04,1.0,209.72,392.0,One-off Lapsed
+C01217,,,,,Prospect (no purchase)
+C01218,,,,,Prospect (no purchase)
+C01219,,,,,Prospect (no purchase)
+C01220,,,,,Prospect (no purchase)
+C01221,,,,,Prospect (no purchase)
+C01222,2024-11-16,1.0,93.72,410.0,One-off Lapsed
+C01223,,,,,Prospect (no purchase)
+C01224,,,,,Prospect (no purchase)
+C01225,,,,,Prospect (no purchase)
+C01226,2025-05-12,1.0,312.63,233.0,One-off Lapsed
+C01227,2025-04-28,3.0,1132.18,247.0,Champions
+C01228,,,,,Prospect (no purchase)
+C01229,,,,,Prospect (no purchase)
+C01230,,,,,Prospect (no purchase)
+C01231,,,,,Prospect (no purchase)
+C01232,,,,,Prospect (no purchase)
+C01233,2024-05-23,1.0,352.92,587.0,One-off Lapsed
+C01234,2025-04-28,1.0,241.02,247.0,One-off Lapsed
+C01235,,,,,Prospect (no purchase)
+C01236,,,,,Prospect (no purchase)
+C01237,,,,,Prospect (no purchase)
+C01238,2024-07-29,3.0,933.48,520.0,Champions
+C01239,2025-02-11,1.0,181.7,323.0,One-off Lapsed
+C01240,2024-09-27,3.0,362.05,460.0,Occasional Repeat
+C01241,,,,,Prospect (no purchase)
+C01242,,,,,Prospect (no purchase)
+C01243,2025-12-31,2.0,558.88,0.0,Recent Buyers
+C01244,2025-12-31,1.0,168.34,0.0,Recent Buyers
+C01245,,,,,Prospect (no purchase)
+C01246,2025-05-14,2.0,751.0,231.0,Occasional Repeat
+C01247,2024-12-02,2.0,854.43,394.0,Occasional Repeat
+C01248,,,,,Prospect (no purchase)
+C01249,,,,,Prospect (no purchase)
+C01250,,,,,Prospect (no purchase)
+C01251,,,,,Prospect (no purchase)
+C01252,2025-09-12,1.0,295.08,110.0,One-off Lapsed
+C01253,,,,,Prospect (no purchase)
+C01254,2024-05-17,1.0,275.96,593.0,One-off Lapsed
+C01255,2025-01-17,3.0,685.02,348.0,Champions
+C01256,,,,,Prospect (no purchase)
+C01257,2024-11-14,1.0,234.43,412.0,One-off Lapsed
+C01258,2024-10-10,5.0,1221.03,447.0,Champions
+C01259,2025-05-02,2.0,821.9200000000001,243.0,Occasional Repeat
+C01260,,,,,Prospect (no purchase)
+C01261,,,,,Prospect (no purchase)
+C01262,,,,,Prospect (no purchase)
+C01263,,,,,Prospect (no purchase)
+C01264,,,,,Prospect (no purchase)
+C01265,,,,,Prospect (no purchase)
+C01266,,,,,Prospect (no purchase)
+C01267,,,,,Prospect (no purchase)
+C01268,,,,,Prospect (no purchase)
+C01269,,,,,Prospect (no purchase)
+C01270,2025-10-13,1.0,250.82,79.0,One-off Lapsed
+C01271,,,,,Prospect (no purchase)
+C01272,2024-04-19,1.0,304.52,621.0,One-off Lapsed
+C01273,2025-05-06,2.0,242.89999999999998,239.0,Occasional Repeat
+C01274,,,,,Prospect (no purchase)
+C01275,,,,,Prospect (no purchase)
+C01276,,,,,Prospect (no purchase)
+C01277,2025-02-28,1.0,97.78,306.0,One-off Lapsed
+C01278,,,,,Prospect (no purchase)
+C01279,2025-11-25,1.0,243.12,36.0,One-off Lapsed
+C01280,,,,,Prospect (no purchase)
+C01281,,,,,Prospect (no purchase)
+C01282,,,,,Prospect (no purchase)
+C01283,,,,,Prospect (no purchase)
+C01284,,,,,Prospect (no purchase)
+C01285,,,,,Prospect (no purchase)
+C01286,2025-01-09,1.0,301.26,356.0,One-off Lapsed
+C01287,,,,,Prospect (no purchase)
+C01288,,,,,Prospect (no purchase)
+C01289,2025-02-16,1.0,99.07,318.0,One-off Lapsed
+C01290,2024-05-08,1.0,214.54,602.0,One-off Lapsed
+C01291,,,,,Prospect (no purchase)
+C01292,,,,,Prospect (no purchase)
+C01293,,,,,Prospect (no purchase)
+C01294,,,,,Prospect (no purchase)
+C01295,,,,,Prospect (no purchase)
+C01296,,,,,Prospect (no purchase)
+C01297,2024-09-03,1.0,301.09,484.0,One-off Lapsed
+C01298,,,,,Prospect (no purchase)
+C01299,,,,,Prospect (no purchase)
+C01300,,,,,Prospect (no purchase)
+C01301,2025-07-21,2.0,595.52,163.0,Occasional Repeat
+C01302,,,,,Prospect (no purchase)
+C01303,,,,,Prospect (no purchase)
+C01304,2025-11-04,1.0,309.7,57.0,One-off Lapsed
+C01305,2025-10-04,1.0,197.25,88.0,One-off Lapsed
+C01306,,,,,Prospect (no purchase)
+C01307,2024-11-22,1.0,209.33,404.0,One-off Lapsed
+C01308,,,,,Prospect (no purchase)
+C01309,,,,,Prospect (no purchase)
+C01310,,,,,Prospect (no purchase)
+C01311,,,,,Prospect (no purchase)
+C01312,,,,,Prospect (no purchase)
+C01313,,,,,Prospect (no purchase)
+C01314,,,,,Prospect (no purchase)
+C01315,,,,,Prospect (no purchase)
+C01316,2025-11-11,1.0,396.27,50.0,One-off Lapsed
+C01317,2024-03-23,1.0,241.87,648.0,One-off Lapsed
+C01318,,,,,Prospect (no purchase)
+C01319,,,,,Prospect (no purchase)
+C01320,,,,,Prospect (no purchase)
+C01321,,,,,Prospect (no purchase)
+C01322,,,,,Prospect (no purchase)
+C01323,,,,,Prospect (no purchase)
+C01324,,,,,Prospect (no purchase)
+C01325,2025-04-12,1.0,155.93,263.0,One-off Lapsed
+C01326,2025-04-15,2.0,559.34,260.0,Occasional Repeat
+C01327,2025-05-08,2.0,407.73,237.0,Occasional Repeat
+C01328,2024-06-26,1.0,209.54,553.0,One-off Lapsed
+C01329,2024-05-24,1.0,225.15,586.0,One-off Lapsed
+C01330,,,,,Prospect (no purchase)
+C01331,2025-01-08,1.0,262.25,357.0,One-off Lapsed
+C01332,2025-12-27,3.0,1060.95,4.0,Champions
+C01333,,,,,Prospect (no purchase)
+C01334,,,,,Prospect (no purchase)
+C01335,,,,,Prospect (no purchase)
+C01336,2024-02-27,2.0,424.09,673.0,Occasional Repeat
+C01337,,,,,Prospect (no purchase)
+C01338,,,,,Prospect (no purchase)
+C01339,,,,,Prospect (no purchase)
+C01340,,,,,Prospect (no purchase)
+C01341,,,,,Prospect (no purchase)
+C01342,,,,,Prospect (no purchase)
+C01343,,,,,Prospect (no purchase)
+C01344,,,,,Prospect (no purchase)
+C01345,,,,,Prospect (no purchase)
+C01346,,,,,Prospect (no purchase)
+C01347,2025-04-25,1.0,174.07,250.0,One-off Lapsed
+C01348,,,,,Prospect (no purchase)
+C01349,,,,,Prospect (no purchase)
+C01350,,,,,Prospect (no purchase)
+C01351,,,,,Prospect (no purchase)
+C01352,,,,,Prospect (no purchase)
+C01353,,,,,Prospect (no purchase)
+C01354,2024-02-08,1.0,137.76,692.0,One-off Lapsed
+C01355,,,,,Prospect (no purchase)
+C01356,,,,,Prospect (no purchase)
+C01357,,,,,Prospect (no purchase)
+C01358,2025-02-12,1.0,216.83,322.0,One-off Lapsed
+C01359,,,,,Prospect (no purchase)
+C01360,,,,,Prospect (no purchase)
+C01361,,,,,Prospect (no purchase)
+C01362,,,,,Prospect (no purchase)
+C01363,2025-07-03,2.0,324.23,181.0,Occasional Repeat
+C01364,,,,,Prospect (no purchase)
+C01365,,,,,Prospect (no purchase)
+C01366,,,,,Prospect (no purchase)
+C01367,2025-05-26,2.0,278.55,219.0,Occasional Repeat
+C01368,,,,,Prospect (no purchase)
+C01369,,,,,Prospect (no purchase)
+C01370,,,,,Prospect (no purchase)
+C01371,2024-09-21,2.0,349.7,466.0,Occasional Repeat
+C01372,,,,,Prospect (no purchase)
+C01373,,,,,Prospect (no purchase)
+C01374,,,,,Prospect (no purchase)
+C01375,,,,,Prospect (no purchase)
+C01376,,,,,Prospect (no purchase)
+C01377,,,,,Prospect (no purchase)
+C01378,,,,,Prospect (no purchase)
+C01379,2025-05-09,1.0,172.55,236.0,One-off Lapsed
+C01380,2025-03-01,1.0,93.72,305.0,One-off Lapsed
+C01381,,,,,Prospect (no purchase)
+C01382,,,,,Prospect (no purchase)
+C01383,2025-11-27,2.0,240.88,34.0,Occasional Repeat
+C01384,2024-05-01,1.0,353.5,609.0,One-off Lapsed
+C01385,,,,,Prospect (no purchase)
+C01386,,,,,Prospect (no purchase)
+C01387,,,,,Prospect (no purchase)
+C01388,,,,,Prospect (no purchase)
+C01389,2024-07-12,1.0,305.88,537.0,One-off Lapsed
+C01390,,,,,Prospect (no purchase)
+C01391,,,,,Prospect (no purchase)
+C01392,,,,,Prospect (no purchase)
+C01393,2025-11-11,1.0,211.15,50.0,One-off Lapsed
+C01394,,,,,Prospect (no purchase)
+C01395,,,,,Prospect (no purchase)
+C01396,2024-07-14,1.0,249.57,535.0,One-off Lapsed
+C01397,,,,,Prospect (no purchase)
+C01398,,,,,Prospect (no purchase)
+C01399,2024-02-20,1.0,109.28,680.0,One-off Lapsed
+C01400,2025-12-31,3.0,683.87,0.0,Recent Buyers
+C01401,2024-12-14,1.0,142.0,382.0,One-off Lapsed
+C01402,2025-10-01,3.0,432.98,91.0,Champions
+C01403,,,,,Prospect (no purchase)
+C01404,,,,,Prospect (no purchase)
+C01405,,,,,Prospect (no purchase)
+C01406,2024-10-23,1.0,150.43,434.0,One-off Lapsed
+C01407,2025-05-06,1.0,163.4,239.0,One-off Lapsed
+C01408,,,,,Prospect (no purchase)
+C01409,2025-05-03,3.0,577.38,242.0,Champions
+C01410,,,,,Prospect (no purchase)
+C01411,,,,,Prospect (no purchase)
+C01412,,,,,Prospect (no purchase)
+C01413,,,,,Prospect (no purchase)
+C01414,2025-12-31,1.0,183.56,0.0,Recent Buyers
+C01415,,,,,Prospect (no purchase)
+C01416,,,,,Prospect (no purchase)
+C01417,,,,,Prospect (no purchase)
+C01418,,,,,Prospect (no purchase)
+C01419,,,,,Prospect (no purchase)
+C01420,,,,,Prospect (no purchase)
+C01421,,,,,Prospect (no purchase)
+C01422,2024-07-13,1.0,401.32,536.0,One-off Lapsed
+C01423,,,,,Prospect (no purchase)
+C01424,,,,,Prospect (no purchase)
+C01425,,,,,Prospect (no purchase)
+C01426,,,,,Prospect (no purchase)
+C01427,,,,,Prospect (no purchase)
+C01428,,,,,Prospect (no purchase)
+C01429,,,,,Prospect (no purchase)
+C01430,,,,,Prospect (no purchase)
+C01431,2025-09-23,4.0,1147.0800000000002,99.0,Champions
+C01432,,,,,Prospect (no purchase)
+C01433,,,,,Prospect (no purchase)
+C01434,2025-04-21,1.0,197.74,254.0,One-off Lapsed
+C01435,,,,,Prospect (no purchase)
+C01436,,,,,Prospect (no purchase)
+C01437,,,,,Prospect (no purchase)
+C01438,,,,,Prospect (no purchase)
+C01439,,,,,Prospect (no purchase)
+C01440,,,,,Prospect (no purchase)
+C01441,,,,,Prospect (no purchase)
+C01442,,,,,Prospect (no purchase)
+C01443,,,,,Prospect (no purchase)
+C01444,2025-09-11,1.0,162.27,111.0,One-off Lapsed
+C01445,2024-07-17,1.0,507.68,532.0,One-off Lapsed
+C01446,,,,,Prospect (no purchase)
+C01447,,,,,Prospect (no purchase)
+C01448,,,,,Prospect (no purchase)
+C01449,2025-01-06,1.0,241.09,359.0,One-off Lapsed
+C01450,,,,,Prospect (no purchase)
+C01451,,,,,Prospect (no purchase)
+C01452,2025-10-25,1.0,156.12,67.0,One-off Lapsed
+C01453,,,,,Prospect (no purchase)
+C01454,,,,,Prospect (no purchase)
+C01455,,,,,Prospect (no purchase)
+C01456,,,,,Prospect (no purchase)
+C01457,,,,,Prospect (no purchase)
+C01458,,,,,Prospect (no purchase)
+C01459,,,,,Prospect (no purchase)
+C01460,,,,,Prospect (no purchase)
+C01461,2025-12-21,1.0,273.99,10.0,Recent Buyers
+C01462,,,,,Prospect (no purchase)
+C01463,,,,,Prospect (no purchase)
+C01464,,,,,Prospect (no purchase)
+C01465,2025-08-11,2.0,463.97,142.0,Occasional Repeat
+C01466,,,,,Prospect (no purchase)
+C01467,,,,,Prospect (no purchase)
+C01468,2025-09-14,2.0,465.88,108.0,Occasional Repeat
+C01469,,,,,Prospect (no purchase)
+C01470,,,,,Prospect (no purchase)
+C01471,,,,,Prospect (no purchase)
+C01472,,,,,Prospect (no purchase)
+C01473,2024-07-03,1.0,304.88,546.0,One-off Lapsed
+C01474,,,,,Prospect (no purchase)
+C01475,2025-05-08,3.0,824.6800000000001,237.0,Champions
+C01476,2024-12-17,2.0,821.13,379.0,Occasional Repeat
+C01477,,,,,Prospect (no purchase)
+C01478,2024-07-05,2.0,277.14,544.0,Occasional Repeat
+C01479,2025-05-08,2.0,640.8199999999999,237.0,Occasional Repeat
+C01480,,,,,Prospect (no purchase)
+C01481,,,,,Prospect (no purchase)
+C01482,,,,,Prospect (no purchase)
+C01483,,,,,Prospect (no purchase)
+C01484,,,,,Prospect (no purchase)
+C01485,,,,,Prospect (no purchase)
+C01486,,,,,Prospect (no purchase)
+C01487,,,,,Prospect (no purchase)
+C01488,2024-06-29,2.0,847.63,550.0,Occasional Repeat
+C01489,2025-04-25,1.0,175.82,250.0,One-off Lapsed
+C01490,,,,,Prospect (no purchase)
+C01491,,,,,Prospect (no purchase)
+C01492,,,,,Prospect (no purchase)
+C01493,2024-01-22,1.0,215.16,709.0,One-off Lapsed
+C01494,,,,,Prospect (no purchase)
+C01495,,,,,Prospect (no purchase)
+C01496,,,,,Prospect (no purchase)
+C01497,,,,,Prospect (no purchase)
+C01498,2025-05-01,1.0,315.07,244.0,One-off Lapsed
+C01499,,,,,Prospect (no purchase)
+C01500,,,,,Prospect (no purchase)
+C01501,2024-10-19,1.0,162.8,438.0,One-off Lapsed
+C01502,,,,,Prospect (no purchase)
+C01503,2024-10-26,1.0,129.9,431.0,One-off Lapsed
+C01504,,,,,Prospect (no purchase)
+C01505,,,,,Prospect (no purchase)
+C01506,,,,,Prospect (no purchase)
+C01507,,,,,Prospect (no purchase)
+C01508,,,,,Prospect (no purchase)
+C01509,,,,,Prospect (no purchase)
+C01510,,,,,Prospect (no purchase)
+C01511,,,,,Prospect (no purchase)
+C01512,,,,,Prospect (no purchase)
+C01513,,,,,Prospect (no purchase)
+C01514,,,,,Prospect (no purchase)
+C01515,,,,,Prospect (no purchase)
+C01516,2024-02-26,1.0,419.57,674.0,One-off Lapsed
+C01517,,,,,Prospect (no purchase)
+C01518,,,,,Prospect (no purchase)
+C01519,2024-07-01,1.0,219.5,548.0,One-off Lapsed
+C01520,,,,,Prospect (no purchase)
+C01521,,,,,Prospect (no purchase)
+C01522,,,,,Prospect (no purchase)
+C01523,,,,,Prospect (no purchase)
+C01524,,,,,Prospect (no purchase)
+C01525,2024-05-02,1.0,179.34,608.0,One-off Lapsed
+C01526,,,,,Prospect (no purchase)
+C01527,2024-10-16,1.0,183.83,441.0,One-off Lapsed
+C01528,,,,,Prospect (no purchase)
+C01529,,,,,Prospect (no purchase)
+C01530,,,,,Prospect (no purchase)
+C01531,,,,,Prospect (no purchase)
+C01532,,,,,Prospect (no purchase)
+C01533,,,,,Prospect (no purchase)
+C01534,,,,,Prospect (no purchase)
+C01535,2024-10-15,1.0,162.1,442.0,One-off Lapsed
+C01536,,,,,Prospect (no purchase)
+C01537,,,,,Prospect (no purchase)
+C01538,2024-12-25,1.0,126.17,371.0,One-off Lapsed
+C01539,,,,,Prospect (no purchase)
+C01540,2025-10-27,6.0,1016.25,65.0,Champions
+C01541,2024-04-22,1.0,189.19,618.0,One-off Lapsed
+C01542,,,,,Prospect (no purchase)
+C01543,,,,,Prospect (no purchase)
+C01544,,,,,Prospect (no purchase)
+C01545,2025-09-24,1.0,271.7,98.0,One-off Lapsed
+C01546,,,,,Prospect (no purchase)
+C01547,,,,,Prospect (no purchase)
+C01548,2025-05-02,2.0,493.21,243.0,Occasional Repeat
+C01549,2025-12-30,1.0,193.16,1.0,Recent Buyers
+C01550,,,,,Prospect (no purchase)
+C01551,,,,,Prospect (no purchase)
+C01552,,,,,Prospect (no purchase)
+C01553,,,,,Prospect (no purchase)
+C01554,,,,,Prospect (no purchase)
+C01555,,,,,Prospect (no purchase)
+C01556,,,,,Prospect (no purchase)
+C01557,,,,,Prospect (no purchase)
+C01558,,,,,Prospect (no purchase)
+C01559,,,,,Prospect (no purchase)
+C01560,2025-04-26,2.0,503.53,249.0,Occasional Repeat
+C01561,,,,,Prospect (no purchase)
+C01562,,,,,Prospect (no purchase)
+C01563,,,,,Prospect (no purchase)
+C01564,,,,,Prospect (no purchase)
+C01565,,,,,Prospect (no purchase)
+C01566,2024-04-06,1.0,231.11,634.0,One-off Lapsed
+C01567,2024-03-08,1.0,156.5,663.0,One-off Lapsed
+C01568,,,,,Prospect (no purchase)
+C01569,,,,,Prospect (no purchase)
+C01570,,,,,Prospect (no purchase)
+C01571,,,,,Prospect (no purchase)
+C01572,,,,,Prospect (no purchase)
+C01573,,,,,Prospect (no purchase)
+C01574,,,,,Prospect (no purchase)
+C01575,,,,,Prospect (no purchase)
+C01576,,,,,Prospect (no purchase)
+C01577,,,,,Prospect (no purchase)
+C01578,,,,,Prospect (no purchase)
+C01579,,,,,Prospect (no purchase)
+C01580,,,,,Prospect (no purchase)
+C01581,2025-11-05,1.0,97.0,56.0,One-off Lapsed
+C01582,2024-08-12,1.0,205.72,506.0,One-off Lapsed
+C01583,2024-06-28,2.0,820.04,551.0,Occasional Repeat
+C01584,,,,,Prospect (no purchase)
+C01585,,,,,Prospect (no purchase)
+C01586,,,,,Prospect (no purchase)
+C01587,,,,,Prospect (no purchase)
+C01588,,,,,Prospect (no purchase)
+C01589,2025-04-30,1.0,353.18,245.0,One-off Lapsed
+C01590,2024-06-23,1.0,168.63,556.0,One-off Lapsed
+C01591,,,,,Prospect (no purchase)
+C01592,,,,,Prospect (no purchase)
+C01593,,,,,Prospect (no purchase)
+C01594,,,,,Prospect (no purchase)
+C01595,,,,,Prospect (no purchase)
+C01596,,,,,Prospect (no purchase)
+C01597,,,,,Prospect (no purchase)
+C01598,,,,,Prospect (no purchase)
+C01599,,,,,Prospect (no purchase)
+C01600,,,,,Prospect (no purchase)
+C01601,,,,,Prospect (no purchase)
+C01602,,,,,Prospect (no purchase)
+C01603,2024-11-25,1.0,239.5,401.0,One-off Lapsed
+C01604,,,,,Prospect (no purchase)
+C01605,,,,,Prospect (no purchase)
+C01606,,,,,Prospect (no purchase)
+C01607,,,,,Prospect (no purchase)
+C01608,2025-12-30,1.0,165.95,1.0,Recent Buyers
+C01609,,,,,Prospect (no purchase)
+C01610,,,,,Prospect (no purchase)
+C01611,,,,,Prospect (no purchase)
+C01612,2025-03-05,1.0,126.71,301.0,One-off Lapsed
+C01613,,,,,Prospect (no purchase)
+C01614,,,,,Prospect (no purchase)
+C01615,,,,,Prospect (no purchase)
+C01616,,,,,Prospect (no purchase)
+C01617,,,,,Prospect (no purchase)
+C01618,,,,,Prospect (no purchase)
+C01619,,,,,Prospect (no purchase)
+C01620,,,,,Prospect (no purchase)
+C01621,,,,,Prospect (no purchase)
+C01622,,,,,Prospect (no purchase)
+C01623,,,,,Prospect (no purchase)
+C01624,,,,,Prospect (no purchase)
+C01625,,,,,Prospect (no purchase)
+C01626,,,,,Prospect (no purchase)
+C01627,,,,,Prospect (no purchase)
+C01628,,,,,Prospect (no purchase)
+C01629,,,,,Prospect (no purchase)
+C01630,,,,,Prospect (no purchase)
+C01631,2024-06-30,1.0,525.77,549.0,One-off Lapsed
+C01632,,,,,Prospect (no purchase)
+C01633,,,,,Prospect (no purchase)
+C01634,2025-10-02,2.0,761.1700000000001,90.0,Occasional Repeat
+C01635,,,,,Prospect (no purchase)
+C01636,2024-04-07,1.0,141.26,633.0,One-off Lapsed
+C01637,,,,,Prospect (no purchase)
+C01638,2024-09-18,1.0,230.97,469.0,One-off Lapsed
+C01639,,,,,Prospect (no purchase)
+C01640,,,,,Prospect (no purchase)
+C01641,,,,,Prospect (no purchase)
+C01642,,,,,Prospect (no purchase)
+C01643,,,,,Prospect (no purchase)
+C01644,,,,,Prospect (no purchase)
+C01645,,,,,Prospect (no purchase)
+C01646,2024-06-30,1.0,213.7,549.0,One-off Lapsed
+C01647,,,,,Prospect (no purchase)
+C01648,,,,,Prospect (no purchase)
+C01649,,,,,Prospect (no purchase)
+C01650,,,,,Prospect (no purchase)
+C01651,,,,,Prospect (no purchase)
+C01652,,,,,Prospect (no purchase)
+C01653,,,,,Prospect (no purchase)
+C01654,2024-04-28,1.0,146.71,612.0,One-off Lapsed
+C01655,,,,,Prospect (no purchase)
+C01656,,,,,Prospect (no purchase)
+C01657,,,,,Prospect (no purchase)
+C01658,,,,,Prospect (no purchase)
+C01659,,,,,Prospect (no purchase)
+C01660,2025-01-27,1.0,656.11,338.0,Occasional Repeat
+C01661,2025-05-03,1.0,147.28,242.0,One-off Lapsed
+C01662,,,,,Prospect (no purchase)
+C01663,2025-09-27,1.0,236.98,95.0,One-off Lapsed
+C01664,2024-03-24,1.0,239.58,647.0,One-off Lapsed
+C01665,,,,,Prospect (no purchase)
+C01666,,,,,Prospect (no purchase)
+C01667,,,,,Prospect (no purchase)
+C01668,2024-10-26,3.0,611.69,431.0,Champions
+C01669,2025-05-06,1.0,110.91,239.0,One-off Lapsed
+C01670,,,,,Prospect (no purchase)
+C01671,2025-03-01,1.0,219.85,305.0,One-off Lapsed
+C01672,,,,,Prospect (no purchase)
+C01673,,,,,Prospect (no purchase)
+C01674,,,,,Prospect (no purchase)
+C01675,,,,,Prospect (no purchase)
+C01676,2025-01-14,1.0,239.94,351.0,One-off Lapsed
+C01677,,,,,Prospect (no purchase)
+C01678,2024-10-07,2.0,595.09,450.0,Occasional Repeat
+C01679,,,,,Prospect (no purchase)
+C01680,,,,,Prospect (no purchase)
+C01681,,,,,Prospect (no purchase)
+C01682,2024-10-17,1.0,112.83,440.0,One-off Lapsed
+C01683,,,,,Prospect (no purchase)
+C01684,,,,,Prospect (no purchase)
+C01685,,,,,Prospect (no purchase)
+C01686,,,,,Prospect (no purchase)
+C01687,,,,,Prospect (no purchase)
+C01688,,,,,Prospect (no purchase)
+C01689,,,,,Prospect (no purchase)
+C01690,,,,,Prospect (no purchase)
+C01691,,,,,Prospect (no purchase)
+C01692,,,,,Prospect (no purchase)
+C01693,,,,,Prospect (no purchase)
+C01694,2025-04-03,1.0,209.23,272.0,One-off Lapsed
+C01695,2024-09-09,1.0,181.96,478.0,One-off Lapsed
+C01696,,,,,Prospect (no purchase)
+C01697,2025-12-31,2.0,348.37,0.0,Recent Buyers
+C01698,,,,,Prospect (no purchase)
+C01699,,,,,Prospect (no purchase)
+C01700,,,,,Prospect (no purchase)
+C01701,,,,,Prospect (no purchase)
+C01702,,,,,Prospect (no purchase)
+C01703,,,,,Prospect (no purchase)
+C01704,,,,,Prospect (no purchase)
+C01705,,,,,Prospect (no purchase)
+C01706,2024-03-25,1.0,257.29,646.0,One-off Lapsed
+C01707,,,,,Prospect (no purchase)
+C01708,,,,,Prospect (no purchase)
+C01709,,,,,Prospect (no purchase)
+C01710,,,,,Prospect (no purchase)
+C01711,2025-03-30,1.0,189.59,276.0,One-off Lapsed
+C01712,,,,,Prospect (no purchase)
+C01713,2025-12-14,2.0,649.36,17.0,Occasional Repeat
+C01714,,,,,Prospect (no purchase)
+C01715,,,,,Prospect (no purchase)
+C01716,,,,,Prospect (no purchase)
+C01717,,,,,Prospect (no purchase)
+C01718,2024-07-23,1.0,203.62,526.0,One-off Lapsed
+C01719,,,,,Prospect (no purchase)
+C01720,,,,,Prospect (no purchase)
+C01721,,,,,Prospect (no purchase)
+C01722,,,,,Prospect (no purchase)
+C01723,,,,,Prospect (no purchase)
+C01724,,,,,Prospect (no purchase)
+C01725,,,,,Prospect (no purchase)
+C01726,,,,,Prospect (no purchase)
+C01727,,,,,Prospect (no purchase)
+C01728,,,,,Prospect (no purchase)
+C01729,,,,,Prospect (no purchase)
+C01730,,,,,Prospect (no purchase)
+C01731,2025-05-06,2.0,384.09,239.0,Occasional Repeat
+C01732,,,,,Prospect (no purchase)
+C01733,,,,,Prospect (no purchase)
+C01734,,,,,Prospect (no purchase)
+C01735,,,,,Prospect (no purchase)
+C01736,,,,,Prospect (no purchase)
+C01737,,,,,Prospect (no purchase)
+C01738,,,,,Prospect (no purchase)
+C01739,,,,,Prospect (no purchase)
+C01740,,,,,Prospect (no purchase)
+C01741,,,,,Prospect (no purchase)
+C01742,,,,,Prospect (no purchase)
+C01743,,,,,Prospect (no purchase)
+C01744,2024-07-06,1.0,155.5,543.0,One-off Lapsed
+C01745,,,,,Prospect (no purchase)
+C01746,,,,,Prospect (no purchase)
+C01747,,,,,Prospect (no purchase)
+C01748,,,,,Prospect (no purchase)
+C01749,,,,,Prospect (no purchase)
+C01750,,,,,Prospect (no purchase)
+C01751,,,,,Prospect (no purchase)
+C01752,,,,,Prospect (no purchase)
+C01753,2024-01-20,1.0,194.99,711.0,One-off Lapsed
+C01754,,,,,Prospect (no purchase)
+C01755,,,,,Prospect (no purchase)
+C01756,,,,,Prospect (no purchase)
+C01757,2024-05-11,1.0,263.5,599.0,One-off Lapsed
+C01758,2024-12-24,1.0,144.53,372.0,One-off Lapsed
+C01759,2025-12-31,2.0,564.81,0.0,Recent Buyers
+C01760,2025-09-25,2.0,434.11,97.0,Occasional Repeat
+C01761,,,,,Prospect (no purchase)
+C01762,,,,,Prospect (no purchase)
+C01763,,,,,Prospect (no purchase)
+C01764,2025-05-04,1.0,158.36,241.0,One-off Lapsed
+C01765,2024-05-06,1.0,380.29,604.0,One-off Lapsed
+C01766,,,,,Prospect (no purchase)
+C01767,,,,,Prospect (no purchase)
+C01768,,,,,Prospect (no purchase)
+C01769,,,,,Prospect (no purchase)
+C01770,,,,,Prospect (no purchase)
+C01771,,,,,Prospect (no purchase)
+C01772,,,,,Prospect (no purchase)
+C01773,2024-04-01,1.0,242.51,639.0,One-off Lapsed
+C01774,2024-05-05,2.0,353.04,605.0,Occasional Repeat
+C01775,,,,,Prospect (no purchase)
+C01776,,,,,Prospect (no purchase)
+C01777,2024-07-26,2.0,380.15,523.0,Occasional Repeat
+C01778,,,,,Prospect (no purchase)
+C01779,,,,,Prospect (no purchase)
+C01780,,,,,Prospect (no purchase)
+C01781,,,,,Prospect (no purchase)
+C01782,,,,,Prospect (no purchase)
+C01783,,,,,Prospect (no purchase)
+C01784,2025-09-27,1.0,215.43,95.0,One-off Lapsed
+C01785,,,,,Prospect (no purchase)
+C01786,,,,,Prospect (no purchase)
+C01787,,,,,Prospect (no purchase)
+C01788,,,,,Prospect (no purchase)
+C01789,,,,,Prospect (no purchase)
+C01790,,,,,Prospect (no purchase)
+C01791,,,,,Prospect (no purchase)
+C01792,,,,,Prospect (no purchase)
+C01793,,,,,Prospect (no purchase)
+C01794,,,,,Prospect (no purchase)
+C01795,2025-07-18,2.0,418.39,166.0,Occasional Repeat
+C01796,,,,,Prospect (no purchase)
+C01797,,,,,Prospect (no purchase)
+C01798,,,,,Prospect (no purchase)
+C01799,,,,,Prospect (no purchase)
+C01800,,,,,Prospect (no purchase)
+C01801,,,,,Prospect (no purchase)
+C01802,,,,,Prospect (no purchase)
+C01803,,,,,Prospect (no purchase)
+C01804,,,,,Prospect (no purchase)
+C01805,2025-03-19,3.0,930.3199999999999,287.0,Champions
+C01806,2024-05-18,1.0,339.28,592.0,One-off Lapsed
+C01807,,,,,Prospect (no purchase)
+C01808,,,,,Prospect (no purchase)
+C01809,,,,,Prospect (no purchase)
+C01810,2025-03-04,1.0,333.72,302.0,One-off Lapsed
+C01811,,,,,Prospect (no purchase)
+C01812,2025-02-01,1.0,207.22,333.0,One-off Lapsed
+C01813,,,,,Prospect (no purchase)
+C01814,,,,,Prospect (no purchase)
+C01815,2025-05-05,1.0,153.83,240.0,One-off Lapsed
+C01816,2025-12-31,2.0,522.91,0.0,Recent Buyers
+C01817,,,,,Prospect (no purchase)
+C01818,,,,,Prospect (no purchase)
+C01819,,,,,Prospect (no purchase)
+C01820,,,,,Prospect (no purchase)
+C01821,,,,,Prospect (no purchase)
+C01822,,,,,Prospect (no purchase)
+C01823,,,,,Prospect (no purchase)
+C01824,,,,,Prospect (no purchase)
+C01825,,,,,Prospect (no purchase)
+C01826,2024-03-25,1.0,146.2,646.0,One-off Lapsed
+C01827,,,,,Prospect (no purchase)
+C01828,,,,,Prospect (no purchase)
+C01829,,,,,Prospect (no purchase)
+C01830,,,,,Prospect (no purchase)
+C01831,,,,,Prospect (no purchase)
+C01832,,,,,Prospect (no purchase)
+C01833,2024-02-14,1.0,209.33,686.0,One-off Lapsed
+C01834,,,,,Prospect (no purchase)
+C01835,,,,,Prospect (no purchase)
+C01836,,,,,Prospect (no purchase)
+C01837,,,,,Prospect (no purchase)
+C01838,2024-08-24,1.0,245.92,494.0,One-off Lapsed
+C01839,,,,,Prospect (no purchase)
+C01840,2024-07-25,1.0,203.98,524.0,One-off Lapsed
+C01841,,,,,Prospect (no purchase)
+C01842,2024-11-11,2.0,728.0799999999999,415.0,Occasional Repeat
+C01843,,,,,Prospect (no purchase)
+C01844,,,,,Prospect (no purchase)
+C01845,,,,,Prospect (no purchase)
+C01846,,,,,Prospect (no purchase)
+C01847,2024-09-04,1.0,223.94,483.0,One-off Lapsed
+C01848,,,,,Prospect (no purchase)
+C01849,,,,,Prospect (no purchase)
+C01850,,,,,Prospect (no purchase)
+C01851,,,,,Prospect (no purchase)
+C01852,2024-11-14,1.0,273.18,412.0,One-off Lapsed
+C01853,,,,,Prospect (no purchase)
+C01854,,,,,Prospect (no purchase)
+C01855,,,,,Prospect (no purchase)
+C01856,,,,,Prospect (no purchase)
+C01857,,,,,Prospect (no purchase)
+C01858,2025-05-11,2.0,353.83,234.0,Occasional Repeat
+C01859,,,,,Prospect (no purchase)
+C01860,,,,,Prospect (no purchase)
+C01861,,,,,Prospect (no purchase)
+C01862,2025-05-18,1.0,314.2,227.0,One-off Lapsed
+C01863,,,,,Prospect (no purchase)
+C01864,,,,,Prospect (no purchase)
+C01865,2024-07-30,2.0,506.5,519.0,Occasional Repeat
+C01866,,,,,Prospect (no purchase)
+C01867,,,,,Prospect (no purchase)
+C01868,,,,,Prospect (no purchase)
+C01869,,,,,Prospect (no purchase)
+C01870,,,,,Prospect (no purchase)
+C01871,,,,,Prospect (no purchase)
+C01872,2024-12-12,1.0,358.72,384.0,One-off Lapsed
+C01873,,,,,Prospect (no purchase)
+C01874,2024-09-03,1.0,186.58,484.0,One-off Lapsed
+C01875,,,,,Prospect (no purchase)
+C01876,,,,,Prospect (no purchase)
+C01877,,,,,Prospect (no purchase)
+C01878,2025-01-13,1.0,142.91,352.0,One-off Lapsed
+C01879,,,,,Prospect (no purchase)
+C01880,,,,,Prospect (no purchase)
+C01881,,,,,Prospect (no purchase)
+C01882,2025-01-21,1.0,192.5,344.0,One-off Lapsed
+C01883,2024-12-30,2.0,744.4,366.0,Occasional Repeat
+C01884,,,,,Prospect (no purchase)
+C01885,,,,,Prospect (no purchase)
+C01886,,,,,Prospect (no purchase)
+C01887,2025-01-16,1.0,207.62,349.0,One-off Lapsed
+C01888,,,,,Prospect (no purchase)
+C01889,2025-01-31,1.0,499.44,334.0,One-off Lapsed
+C01890,2024-10-31,2.0,371.35,426.0,Occasional Repeat
+C01891,,,,,Prospect (no purchase)
+C01892,2024-11-18,1.0,110.19,408.0,One-off Lapsed
+C01893,,,,,Prospect (no purchase)
+C01894,,,,,Prospect (no purchase)
+C01895,,,,,Prospect (no purchase)
+C01896,,,,,Prospect (no purchase)
+C01897,,,,,Prospect (no purchase)
+C01898,2024-06-26,1.0,284.36,553.0,One-off Lapsed
+C01899,,,,,Prospect (no purchase)
+C01900,2025-02-21,1.0,163.94,313.0,One-off Lapsed
+C01901,2025-12-25,1.0,121.26,6.0,Recent Buyers
+C01902,2025-01-06,2.0,407.12,359.0,Occasional Repeat
+C01903,,,,,Prospect (no purchase)
+C01904,2025-09-28,1.0,263.12,94.0,One-off Lapsed
+C01905,,,,,Prospect (no purchase)
+C01906,,,,,Prospect (no purchase)
+C01907,,,,,Prospect (no purchase)
+C01908,,,,,Prospect (no purchase)
+C01909,2024-05-27,1.0,285.56,583.0,One-off Lapsed
+C01910,,,,,Prospect (no purchase)
+C01911,2025-01-28,3.0,604.86,337.0,Champions
+C01912,2024-03-31,1.0,243.8,640.0,One-off Lapsed
+C01913,,,,,Prospect (no purchase)
+C01914,,,,,Prospect (no purchase)
+C01915,2024-03-10,3.0,634.72,661.0,Champions
+C01916,,,,,Prospect (no purchase)
+C01917,,,,,Prospect (no purchase)
+C01918,,,,,Prospect (no purchase)
+C01919,,,,,Prospect (no purchase)
+C01920,2025-02-23,2.0,347.32,311.0,Occasional Repeat
+C01921,,,,,Prospect (no purchase)
+C01922,2024-10-10,1.0,201.43,447.0,One-off Lapsed
+C01923,,,,,Prospect (no purchase)
+C01924,,,,,Prospect (no purchase)
+C01925,2025-11-26,2.0,752.11,35.0,Occasional Repeat
+C01926,,,,,Prospect (no purchase)
+C01927,2024-09-19,1.0,145.16,468.0,One-off Lapsed
+C01928,2024-07-07,1.0,148.03,542.0,One-off Lapsed
+C01929,,,,,Prospect (no purchase)
+C01930,,,,,Prospect (no purchase)
+C01931,,,,,Prospect (no purchase)
+C01932,,,,,Prospect (no purchase)
+C01933,,,,,Prospect (no purchase)
+C01934,,,,,Prospect (no purchase)
+C01935,,,,,Prospect (no purchase)
+C01936,,,,,Prospect (no purchase)
+C01937,,,,,Prospect (no purchase)
+C01938,,,,,Prospect (no purchase)
+C01939,,,,,Prospect (no purchase)
+C01940,,,,,Prospect (no purchase)
+C01941,,,,,Prospect (no purchase)
+C01942,,,,,Prospect (no purchase)
+C01943,,,,,Prospect (no purchase)
+C01944,,,,,Prospect (no purchase)
+C01945,,,,,Prospect (no purchase)
+C01946,,,,,Prospect (no purchase)
+C01947,2024-12-13,1.0,204.55,383.0,One-off Lapsed
+C01948,,,,,Prospect (no purchase)
+C01949,,,,,Prospect (no purchase)
+C01950,,,,,Prospect (no purchase)
+C01951,,,,,Prospect (no purchase)
+C01952,,,,,Prospect (no purchase)
+C01953,,,,,Prospect (no purchase)
+C01954,2025-11-30,1.0,227.11,31.0,One-off Lapsed
+C01955,,,,,Prospect (no purchase)
+C01956,2025-05-12,4.0,981.4300000000001,233.0,Champions
+C01957,,,,,Prospect (no purchase)
+C01958,2025-02-01,1.0,239.79,333.0,One-off Lapsed
+C01959,,,,,Prospect (no purchase)
+C01960,,,,,Prospect (no purchase)
+C01961,2024-02-18,1.0,344.69,682.0,One-off Lapsed
+C01962,,,,,Prospect (no purchase)
+C01963,,,,,Prospect (no purchase)
+C01964,,,,,Prospect (no purchase)
+C01965,,,,,Prospect (no purchase)
+C01966,,,,,Prospect (no purchase)
+C01967,,,,,Prospect (no purchase)
+C01968,2025-01-16,2.0,382.97,349.0,Occasional Repeat
+C01969,,,,,Prospect (no purchase)
+C01970,2024-05-21,1.0,252.76,589.0,One-off Lapsed
+C01971,,,,,Prospect (no purchase)
+C01972,,,,,Prospect (no purchase)
+C01973,,,,,Prospect (no purchase)
+C01974,,,,,Prospect (no purchase)
+C01975,,,,,Prospect (no purchase)
+C01976,2024-07-05,1.0,454.86,544.0,One-off Lapsed
+C01977,2025-02-03,1.0,208.67,331.0,One-off Lapsed
+C01978,,,,,Prospect (no purchase)
+C01979,,,,,Prospect (no purchase)
+C01980,,,,,Prospect (no purchase)
+C01981,,,,,Prospect (no purchase)
+C01982,,,,,Prospect (no purchase)
+C01983,,,,,Prospect (no purchase)
+C01984,,,,,Prospect (no purchase)
+C01985,,,,,Prospect (no purchase)
+C01986,,,,,Prospect (no purchase)
+C01987,,,,,Prospect (no purchase)
+C01988,,,,,Prospect (no purchase)
+C01989,,,,,Prospect (no purchase)
+C01990,2024-09-27,1.0,174.44,460.0,One-off Lapsed
+C01991,,,,,Prospect (no purchase)
+C01992,2024-04-13,1.0,353.87,627.0,One-off Lapsed
+C01993,,,,,Prospect (no purchase)
+C01994,,,,,Prospect (no purchase)
+C01995,,,,,Prospect (no purchase)
+C01996,,,,,Prospect (no purchase)
+C01997,2025-08-03,1.0,251.06,150.0,One-off Lapsed
+C01998,,,,,Prospect (no purchase)
+C01999,2025-12-28,1.0,115.16,3.0,Recent Buyers
+C02000,,,,,Prospect (no purchase)
+C02001,,,,,Prospect (no purchase)
+C02002,,,,,Prospect (no purchase)
+C02003,,,,,Prospect (no purchase)
+C02004,2025-12-05,3.0,880.27,26.0,Champions
+C02005,,,,,Prospect (no purchase)
+C02006,,,,,Prospect (no purchase)
+C02007,2025-01-24,1.0,106.09,341.0,One-off Lapsed
+C02008,,,,,Prospect (no purchase)
+C02009,,,,,Prospect (no purchase)
+C02010,,,,,Prospect (no purchase)
+C02011,2025-11-20,1.0,154.09,41.0,One-off Lapsed
+C02012,,,,,Prospect (no purchase)
+C02013,,,,,Prospect (no purchase)
+C02014,2024-09-29,1.0,271.22,458.0,One-off Lapsed
+C02015,,,,,Prospect (no purchase)
+C02016,,,,,Prospect (no purchase)
+C02017,,,,,Prospect (no purchase)
+C02018,,,,,Prospect (no purchase)
+C02019,2024-12-19,2.0,627.0699999999999,377.0,Occasional Repeat
+C02020,,,,,Prospect (no purchase)
+C02021,2025-03-03,1.0,176.31,303.0,One-off Lapsed
+C02022,,,,,Prospect (no purchase)
+C02023,2025-03-04,2.0,459.68,302.0,Occasional Repeat
+C02024,2025-01-13,1.0,205.04,352.0,One-off Lapsed
+C02025,,,,,Prospect (no purchase)
+C02026,,,,,Prospect (no purchase)
+C02027,2024-12-04,1.0,111.28,392.0,One-off Lapsed
+C02028,2024-12-01,2.0,565.12,395.0,Occasional Repeat
+C02029,2024-07-13,1.0,224.95,536.0,One-off Lapsed
+C02030,2025-05-17,4.0,1270.08,228.0,Champions
+C02031,,,,,Prospect (no purchase)
+C02032,,,,,Prospect (no purchase)
+C02033,,,,,Prospect (no purchase)
+C02034,2024-05-09,1.0,198.5,601.0,One-off Lapsed
+C02035,,,,,Prospect (no purchase)
+C02036,2024-05-22,1.0,159.94,588.0,One-off Lapsed
+C02037,,,,,Prospect (no purchase)
+C02038,,,,,Prospect (no purchase)
+C02039,,,,,Prospect (no purchase)
+C02040,,,,,Prospect (no purchase)
+C02041,2025-04-20,1.0,118.16,255.0,One-off Lapsed
+C02042,,,,,Prospect (no purchase)
+C02043,,,,,Prospect (no purchase)
+C02044,,,,,Prospect (no purchase)
+C02045,2024-11-21,2.0,565.84,405.0,Occasional Repeat
+C02046,,,,,Prospect (no purchase)
+C02047,,,,,Prospect (no purchase)
+C02048,,,,,Prospect (no purchase)
+C02049,,,,,Prospect (no purchase)
+C02050,2025-04-12,1.0,140.49,263.0,One-off Lapsed
+C02051,,,,,Prospect (no purchase)
+C02052,,,,,Prospect (no purchase)
+C02053,,,,,Prospect (no purchase)
+C02054,,,,,Prospect (no purchase)
+C02055,,,,,Prospect (no purchase)
+C02056,,,,,Prospect (no purchase)
+C02057,,,,,Prospect (no purchase)
+C02058,2025-04-13,1.0,170.55,262.0,One-off Lapsed
+C02059,,,,,Prospect (no purchase)
+C02060,,,,,Prospect (no purchase)
+C02061,,,,,Prospect (no purchase)
+C02062,2025-12-26,1.0,225.27,5.0,Recent Buyers
+C02063,,,,,Prospect (no purchase)
+C02064,2025-04-28,5.0,1759.08,247.0,Champions
+C02065,,,,,Prospect (no purchase)
+C02066,,,,,Prospect (no purchase)
+C02067,,,,,Prospect (no purchase)
+C02068,2025-12-31,1.0,275.5,0.0,Recent Buyers
+C02069,2025-10-21,1.0,249.38,71.0,One-off Lapsed
+C02070,,,,,Prospect (no purchase)
+C02071,,,,,Prospect (no purchase)
+C02072,,,,,Prospect (no purchase)
+C02073,2024-04-22,1.0,241.33,618.0,One-off Lapsed
+C02074,,,,,Prospect (no purchase)
+C02075,,,,,Prospect (no purchase)
+C02076,,,,,Prospect (no purchase)
+C02077,2025-01-11,1.0,181.74,354.0,One-off Lapsed
+C02078,,,,,Prospect (no purchase)
+C02079,,,,,Prospect (no purchase)
+C02080,,,,,Prospect (no purchase)
+C02081,2025-12-31,3.0,656.28,0.0,Recent Buyers
+C02082,,,,,Prospect (no purchase)
+C02083,,,,,Prospect (no purchase)
+C02084,2024-02-22,1.0,250.18,678.0,One-off Lapsed
+C02085,,,,,Prospect (no purchase)
+C02086,2025-05-02,1.0,127.16,243.0,One-off Lapsed
+C02087,2024-04-19,1.0,195.64,621.0,One-off Lapsed
+C02088,,,,,Prospect (no purchase)
+C02089,2025-02-10,1.0,328.88,324.0,One-off Lapsed
+C02090,,,,,Prospect (no purchase)
+C02091,,,,,Prospect (no purchase)
+C02092,,,,,Prospect (no purchase)
+C02093,,,,,Prospect (no purchase)
+C02094,,,,,Prospect (no purchase)
+C02095,2024-07-14,3.0,949.92,535.0,Champions
+C02096,,,,,Prospect (no purchase)
+C02097,2025-05-11,2.0,907.71,234.0,Occasional Repeat
+C02098,,,,,Prospect (no purchase)
+C02099,,,,,Prospect (no purchase)
+C02100,,,,,Prospect (no purchase)
+C02101,,,,,Prospect (no purchase)
+C02102,2025-12-31,1.0,288.05,0.0,Recent Buyers
+C02103,,,,,Prospect (no purchase)
+C02104,,,,,Prospect (no purchase)
+C02105,,,,,Prospect (no purchase)
+C02106,2025-05-06,2.0,805.84,239.0,Occasional Repeat
+C02107,,,,,Prospect (no purchase)
+C02108,,,,,Prospect (no purchase)
+C02109,2024-08-07,1.0,191.12,511.0,One-off Lapsed
+C02110,,,,,Prospect (no purchase)
+C02111,,,,,Prospect (no purchase)
+C02112,,,,,Prospect (no purchase)
+C02113,,,,,Prospect (no purchase)
+C02114,,,,,Prospect (no purchase)
+C02115,,,,,Prospect (no purchase)
+C02116,,,,,Prospect (no purchase)
+C02117,2024-12-10,1.0,174.36,386.0,One-off Lapsed
+C02118,,,,,Prospect (no purchase)
+C02119,,,,,Prospect (no purchase)
+C02120,,,,,Prospect (no purchase)
+C02121,,,,,Prospect (no purchase)
+C02122,,,,,Prospect (no purchase)
+C02123,,,,,Prospect (no purchase)
+C02124,2024-03-24,1.0,102.15,647.0,One-off Lapsed
+C02125,2025-05-08,3.0,579.9300000000001,237.0,Champions
+C02126,,,,,Prospect (no purchase)
+C02127,2024-05-31,1.0,107.65,579.0,One-off Lapsed
+C02128,,,,,Prospect (no purchase)
+C02129,,,,,Prospect (no purchase)
+C02130,,,,,Prospect (no purchase)
+C02131,,,,,Prospect (no purchase)
+C02132,,,,,Prospect (no purchase)
+C02133,,,,,Prospect (no purchase)
+C02134,,,,,Prospect (no purchase)
+C02135,,,,,Prospect (no purchase)
+C02136,,,,,Prospect (no purchase)
+C02137,,,,,Prospect (no purchase)
+C02138,2025-11-18,1.0,92.54,43.0,One-off Lapsed
+C02139,2025-12-31,1.0,276.76,0.0,Recent Buyers
+C02140,,,,,Prospect (no purchase)
+C02141,,,,,Prospect (no purchase)
+C02142,2025-08-08,2.0,330.28,145.0,Occasional Repeat
+C02143,,,,,Prospect (no purchase)
+C02144,,,,,Prospect (no purchase)
+C02145,,,,,Prospect (no purchase)
+C02146,,,,,Prospect (no purchase)
+C02147,,,,,Prospect (no purchase)
+C02148,2024-07-14,1.0,230.63,535.0,One-off Lapsed
+C02149,,,,,Prospect (no purchase)
+C02150,2025-11-25,1.0,166.73,36.0,One-off Lapsed
+C02151,,,,,Prospect (no purchase)
+C02152,2025-06-21,2.0,801.61,193.0,Occasional Repeat
+C02153,,,,,Prospect (no purchase)
+C02154,,,,,Prospect (no purchase)
+C02155,,,,,Prospect (no purchase)
+C02156,,,,,Prospect (no purchase)
+C02157,,,,,Prospect (no purchase)
+C02158,,,,,Prospect (no purchase)
+C02159,2025-12-31,1.0,404.66,0.0,Recent Buyers
+C02160,2025-02-22,1.0,183.22,312.0,One-off Lapsed
+C02161,2024-03-25,1.0,323.84,646.0,One-off Lapsed
+C02162,,,,,Prospect (no purchase)
+C02163,2025-12-26,1.0,292.34,5.0,Recent Buyers
+C02164,,,,,Prospect (no purchase)
+C02165,,,,,Prospect (no purchase)
+C02166,2024-07-05,1.0,327.53,544.0,One-off Lapsed
+C02167,,,,,Prospect (no purchase)
+C02168,,,,,Prospect (no purchase)
+C02169,,,,,Prospect (no purchase)
+C02170,2025-09-30,2.0,695.56,92.0,Occasional Repeat
+C02171,,,,,Prospect (no purchase)
+C02172,2025-10-03,1.0,265.95,89.0,One-off Lapsed
+C02173,2025-09-24,2.0,468.21,98.0,Occasional Repeat
+C02174,,,,,Prospect (no purchase)
+C02175,2025-04-23,1.0,198.19,252.0,One-off Lapsed
+C02176,,,,,Prospect (no purchase)
+C02177,,,,,Prospect (no purchase)
+C02178,,,,,Prospect (no purchase)
+C02179,,,,,Prospect (no purchase)
+C02180,,,,,Prospect (no purchase)
+C02181,,,,,Prospect (no purchase)
+C02182,,,,,Prospect (no purchase)
+C02183,,,,,Prospect (no purchase)
+C02184,,,,,Prospect (no purchase)
+C02185,,,,,Prospect (no purchase)
+C02186,,,,,Prospect (no purchase)
+C02187,,,,,Prospect (no purchase)
+C02188,,,,,Prospect (no purchase)
+C02189,,,,,Prospect (no purchase)
+C02190,,,,,Prospect (no purchase)
+C02191,,,,,Prospect (no purchase)
+C02192,,,,,Prospect (no purchase)
+C02193,,,,,Prospect (no purchase)
+C02194,,,,,Prospect (no purchase)
+C02195,,,,,Prospect (no purchase)
+C02196,,,,,Prospect (no purchase)
+C02197,,,,,Prospect (no purchase)
+C02198,2024-07-26,1.0,188.04,523.0,One-off Lapsed
+C02199,,,,,Prospect (no purchase)
+C02200,,,,,Prospect (no purchase)

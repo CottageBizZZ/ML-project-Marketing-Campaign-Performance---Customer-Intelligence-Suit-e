@@ -1,0 +1,10 @@
+// ============ Qlik Sense master measures ============
+CTR            : Sum(clicks) / Sum(impressions)
+CVR            : Sum(conversions) / Sum(clicks)
+Response Rate  : Count(DISTINCT {<responded={1}>} customer_id) / Count(DISTINCT customer_id)
+CPC            : Sum(spend) / Sum(clicks)
+CAC            : Sum(spend) / Sum(conversions)
+ROAS           : Sum(revenue) / Sum(spend)
+AOV            : Sum(revenue) / Sum(conversions)
+Profit         : Sum(revenue) - Sum(spend)
+Revenue YoY %  : (Sum(revenue) - Sum({<year={"$(=Max(year)-1)"}>} revenue)) / Sum({<year={"$(=Max(year)-1)"}>} revenue)

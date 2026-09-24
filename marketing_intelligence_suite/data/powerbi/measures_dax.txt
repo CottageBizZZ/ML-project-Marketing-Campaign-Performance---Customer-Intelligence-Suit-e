@@ -1,0 +1,36 @@
+// ============ Power BI measures (create in table: fact_campaign_interactions) ============
+Total Spend        = SUM ( fact_campaign_interactions[spend] )
+Total Revenue      = SUM ( fact_campaign_interactions[revenue] )
+Total Impressions  = SUM ( fact_campaign_interactions[impressions] )
+Total Clicks       = SUM ( fact_campaign_interactions[clicks] )
+Total Conversions  = SUM ( fact_campaign_interactions[conversions] )
+Reached Customers  = DISTINCTCOUNT ( fact_campaign_interactions[customer_id] )
+Responders         = CALCULATE ( DISTINCTCOUNT ( fact_campaign_interactions[customer_id] ), fact_campaign_interactions[responded] = 1 )
+
+CTR                = DIVIDE ( [Total Clicks], [Total Impressions] )
+CVR                = DIVIDE ( [Total Conversions], [Total Clicks] )
+Response Rate      = DIVIDE ( [Responders], [Reached Customers] )
+CPC                = DIVIDE ( [Total Spend], [Total Clicks] )
+CAC                = DIVIDE ( [Total Spend], [Total Conversions] )
+ROAS               = DIVIDE ( [Total Revenue], [Total Spend] )
+AOV                = DIVIDE ( [Total Revenue], [Total Conversions] )
+Profit             = [Total Revenue] - [Total Spend]
+Spend Share        = DIVIDE ( [Total Spend], CALCULATE ( [Total Spend], ALL ( dim_channels ) ) )
+Revenue Share      = DIVIDE ( [Total Revenue], CALCULATE ( [Total Revenue], ALL ( dim_channels ) ) )
+Share Gap (pp)     = ( [Revenue Share] - [Spend Share] ) * 100
+
+// ---- time intelligence (requires dim_dates marked as date table)
+Revenue PY         = CALCULATE ( [Total Revenue], SAMEPERIODLASTYEAR ( dim_dates[date] ) )
+Revenue YoY %      = DIVIDE ( [Total Revenue] - [Revenue PY], [Revenue PY] )
+Revenue MTD        = TOTALMTD ( [Total Revenue], dim_dates[date] )
+Rolling 3M Revenue = CALCULATE ( [Total Revenue], DATESINPERIOD ( dim_dates[date], MAX ( dim_dates[date] ), -3, MONTH ) )
+
+// ---- KPI status for conditional formatting
+ROAS Status        = SWITCH ( TRUE (), [ROAS] >= 3, "Strong", [ROAS] >= 1, "Break-even+", "Loss" )
+ROAS Target        = 2.5
+ROAS vs Target     = [ROAS] - [ROAS Target]
+
+// ---- customer intelligence (dim_customers)
+High Churn Risk Customers = CALCULATE ( COUNTROWS ( dim_customers ), dim_customers[churn_risk_band] = "High" )
+Champions Revenue         = CALCULATE ( [Total Revenue], dim_customers[rfm_segment] = "Champions" )
+Avg Churn Probability     = AVERAGE ( dim_customers[churn_probability] )
