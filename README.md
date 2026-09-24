@@ -237,5 +237,3 @@ All scripts are seeded (`random_state=42`), so every table, chart and metric in 
 
 **Igor Shudrov** — Data Analyst (banking / CRM analytics), BSc Financial & Economic Mathematics, Comenius University Bratislava.
 Python · SQL · Power BI · Tableau · scikit-learn — [LinkedIn](https://www.linkedin.com/) · yahorshudrou@gmail.com
-
-Licensed under the MIT License.
