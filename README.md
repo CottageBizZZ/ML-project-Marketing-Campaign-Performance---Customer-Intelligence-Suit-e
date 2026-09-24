@@ -155,8 +155,6 @@ Did the customer buy again in 2025, given their 2024 behaviour? 1,644 customers 
 
 `measures_dax.txt` has 25 measures — core KPIs (ROAS, CAC, Response Rate, Spend Share, Revenue Share, Share Gap), time intelligence (Revenue PY, Revenue YoY%, Rolling 3M Revenue), and customer-intelligence measures (High Churn Risk Customers, Champions Revenue). `measures_qlik.txt` mirrors them as Qlik Sense master measures.
 
-A step-by-step dashboard build guide (4 pages: Executive Overview, Campaign Deep-Dive, Customer Intelligence, Insights) is in [`CV_LinkedIn_PowerBI_Guide.md`](marketing_intelligence_suite/CV_LinkedIn_PowerBI_Guide.md).
-
 ---
 
 ## AI-insight layer
@@ -189,7 +187,6 @@ marketing_intelligence_suite/
 │   └── executive_summary.md       AI-generated executive summary
 ├── report/
 │   └── Marketing_Campaign_Performance_Report.pdf
-├── CV_LinkedIn_PowerBI_Guide.md   Power BI build guide
 ├── requirements.txt
 └── run_all.sh
 ```
