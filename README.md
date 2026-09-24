@@ -10,7 +10,7 @@
 
 An end-to-end marketing analytics project that takes raw campaign and CRM data and turns it into **KPI dashboards, customer segments, predictive models and a plain-language executive summary** — the full workflow a Data & AI team runs when it asks *"where should the next marketing euro go?"*
 
-> **Key finding:** Email generated **6.5x ROAS** and a **€31 CAC** on only **6% of budget**, while Display ran **below break-even (0.84x)**. Re-allocating 10–15% of spend is worth an estimated **+15–20% attributed revenue** at constant budget.
+> **Key finding:** Email generated **6.5x ROAS** and a **€31 CAC** on only **6% of budget**, while Display ran **below break-even (0.84x)**. Re-allocating 10-15% of spend is worth an estimated **+15-20% attributed revenue** at constant budget.
 
 <p align="center">
   <img src="outputs/charts/01_spend_vs_revenue_share.png" width="800" alt="Share of spend vs share of revenue by channel">
